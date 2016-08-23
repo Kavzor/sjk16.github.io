@@ -15,11 +15,9 @@ function markWeek(jQuery) {
   var date = new Date();
   var currentWeek = date.getWeek();
 
-  var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
-  var currentWeekTableRow = currentWeek- startWeek2016-16; //hårdkodat för att kompensera för veckorna under sommaren
+  //var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
+  var currentWeekTableRow = currentWeek; //hårdkodat för att kompensera för veckorna under sommaren
 
-  // Style weeks in the past in 2015
-  $("h3:contains(2015) + table tbody tr").toggleClass("past-week");
 
   // Style weeks in the past in 2016
   $("h3:contains(2016) + table tbody tr:lt(" + currentWeekTableRow + ")").toggleClass("past-week");
