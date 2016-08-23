@@ -16,7 +16,7 @@ function markWeek(jQuery) {
   var currentWeek = date.getWeek();
 
   var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
-  var currentWeekTableRow = currentWeek- startWeek2016 -9; //hårdkodat för att kompensera för veckorna under sommaren
+  var currentWeekTableRow = currentWeek- startWeek2016 -17; //hårdkodat för att kompensera för veckorna under sommaren
 
   // Style weeks in the past in 2015
   $("h3:contains(2015) + table tbody tr").toggleClass("past-week");
