@@ -1,2 +1,2 @@
 # sjk16.github.io
-Systemutvecklare Java 2016 Stockholm
+Jensen Yrkeshögskola. Systemutvecklare Java. Start hösten 2016

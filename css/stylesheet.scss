@@ -1,0 +1,31 @@
+---
+---
+
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom: 0.7em;
+	page-break-before: always;
+}
+
+p, pre, pre.prettyprint, blockquote {
+	margin-bottom: 0.5em;
+}
+li { margin-bottom: 0.2em;}
+
+input { margin-top: 0.4em;
+        margin-bottom: 1em;
+}
+
+input[type=text] {
+    width: 20em;
+}
+
+/*
+	Style weeks
+*/
+.past-week {
+	color: #BDBDBD;
+}
+
+.active-week {
+		background-color: #E3F2FD; /* #E1F5FE */
+}
