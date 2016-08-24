@@ -15,8 +15,8 @@ function markWeek(jQuery) {
   var date = new Date();
   var currentWeek = date.getWeek();
 
-  //var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
-  var currentWeekTableRow = currentWeek; 
+  var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
+  var currentWeekTableRow = currentWeek - startWeek2016; 
 
 
   // Style weeks in the past in 2016
