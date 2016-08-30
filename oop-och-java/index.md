@@ -135,7 +135,7 @@ http://docs.oracle.com/javase/tutorial/getStarted/application/index.html
 
 **Att göra till tisdag 6 sep**
 
-* Kolla på följande videos
+* Kolla på följande länkar (behöver skaffa ett gratis konto på lynda för att kunna se videos)
 
 	-What is programming? from the Course Foundations of Programming: Fundamentals
 	http://www.lynda.com/Developer-Programming-Foundations-tutorials/What-programming/83603/90430-4.html
