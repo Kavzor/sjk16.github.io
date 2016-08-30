@@ -99,3 +99,50 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 	* Överlagring (overloading) / Överskuggning (override) 
 
 
+Lektionstillfällen
+-------------------
+
+### Tisdag 30 aug
+
+Vi pratade allmänt om utbildningen och om begreppet "Systemutvecklare". Även en kortare intro till datorer, programmering samt lite kort om binära tal.
+
+### Onsdag 31 aug
+**Relevanta övningar**
+"Hello World!" for Microsoft Windows (The Java™ Tutorials > Getting Started > The "Hello World!" Application)
+https://docs.oracle.com/javase/tutorial/getStarted/cupojava/win32.html
+
+SoloLearn: Modul 1--8 (hoppa över nr 6)
+http://www.sololearn.com/Course/Java/
+
+Hello, World! - Learn Java - Free Interactive Java Tutorial
+http://www.learnjavaonline.org/en/Hello%2C_World%21
+
+Programming by Doing - Övning 0--7
+https://programmingbydoing.com/
+
+**Fördjupande läsning**
+Java 101: Learn Java from the ground up | JavaWorld
+http://www.javaworld.com/article/2076075/learn-java/core-java-learn-java-from-the-ground-up.html
+
+About the Java Technology (The Java™ Tutorials > Getting Started > The Java Technology Phenomenon)
+http://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html
+
+How Will Java Technology Change My Life? (The Java™ Tutorials > Getting Started > The Java Technology Phenomenon)
+http://docs.oracle.com/javase/tutorial/getStarted/intro/changemylife.html
+
+Lesson: A Closer Look at the "Hello World!" Application (The Java™ Tutorials > Getting Started)
+http://docs.oracle.com/javase/tutorial/getStarted/application/index.html
+
+**Att göra till tisdag 6 sep**
+
+* Kolla på följande videos
+
+	-What is programming? from the Course Foundations of Programming: Fundamentals
+	http://www.lynda.com/Developer-Programming-Foundations-tutorials/What-programming/83603/90430-4.html
+
+	-Meet the Professional | Computer programming | Khan Academy
+	https://www.khanacademy.org/computing/computer-programming/meet-the-computing-professional
+
+* Titta på länkarna i [kursplaneringen](kursplanering-OOP-och-Java.pdf)
+
+* Skriv ett direct message till Martin på Slack. Där ni presenterar er samt beskriver "jag har valt denna utbildningen därför att..." samt "Under utbildningen skulle jag vilja lära mig...". Dels för att jag ska lära känna er bättre och dels för att visa att ni kommit igång med Slack.
