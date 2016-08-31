@@ -135,7 +135,7 @@ http://docs.oracle.com/javase/tutorial/getStarted/application/index.html
 
 **Att göra till tisdag 6 sep**
 
-* Kolla på följande länkar (behöver skaffa ett gratis konto på lynda för att kunna se videos)
+* Kolla på följande länkar (behöver skaffa en gratis 10-days trial på lynda för att kunna använda materialet)
 
 	-What is programming? from the Course Foundations of Programming: Fundamentals
 	http://www.lynda.com/Developer-Programming-Foundations-tutorials/What-programming/83603/90430-4.html
@@ -143,6 +143,12 @@ http://docs.oracle.com/javase/tutorial/getStarted/application/index.html
 	-Meet the Professional | Computer programming | Khan Academy
 	https://www.khanacademy.org/computing/computer-programming/meet-the-computing-professional
 
-* Titta på länkarna i [kursplaneringen](kursplanering-OOP-och-Java.pdf)
+* Läs [kursplaneringen](kursplanering-OOP-och-Java.pdf)
 
-* Skriv ett direct message till Martin på Slack. Där ni presenterar er samt beskriver "jag har valt denna utbildningen därför att..." samt "Under utbildningen skulle jag vilja lära mig...". Dels för att jag ska lära känna er bättre och dels för att visa att ni kommit igång med Slack.
+* Skriv ett direct message till Martin på Slack. 
+	 Där ni presenterar er samt beskriver: 
+	-Era nuvarande programmeringskunskaper
+	-"jag har valt denna utbildningen därför att..."
+	-"Under utbildningen skulle jag vilja lära mig..."
+	
+Dels för att jag ska lära känna er bättre och dels för att visa att ni kommit igång med Slack.
