@@ -26,6 +26,7 @@ Info
 [Kursplanering (pdf)](kursplanering-OOP-och-Java.pdf)
 
 
+
 ### Bra resurser
 The Java™ Tutorials
 http://docs.oracle.com/javase/tutorial/
@@ -107,6 +108,22 @@ Lektionstillfällen
 Vi pratade allmänt om utbildningen och om begreppet "Systemutvecklare". Även en kortare intro till datorer, programmering samt lite kort om binära tal.
 
 ### Onsdag 31 aug
+
+**IDE**
+https://workflowy.com/s/KMIswrqLXE
+
+Välj en IDE per person
+
+    Exempel: Noteblock, Notepad++, Textpad, Sublime Text, Atom
+
+Undersök IDE
+
+    Spontana intryck?
+    Vad är bra? Vad är dåligt?
+    Kan ni få text editorn att kompilera och köra er Javakod utan att du behöver använda kommandoprompten? Hur?
+    Gör HelloWorld!
+    Rita ut ett tre-i-rad-spelbräde (förbättra gärna!) Förtydligande: gör ett program som ritar ut ett spelbräde för tre-i-rad
+
 
 **Bra länkar**
 Installera Java JDK
