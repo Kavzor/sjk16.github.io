@@ -107,6 +107,17 @@ Lektionstillfällen
 Vi pratade allmänt om utbildningen och om begreppet "Systemutvecklare". Även en kortare intro till datorer, programmering samt lite kort om binära tal.
 
 ### Onsdag 31 aug
+
+**Bra länkar**
+Installera Java JDK
+http://www.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html
+
+Lära sig Windows Command Prompt
+http://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html
+
+Lära sig Mac Terminal
+http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
+
 **Relevanta övningar**
 "Hello World!" for Microsoft Windows (The Java™ Tutorials > Getting Started > The "Hello World!" Application)
 https://docs.oracle.com/javase/tutorial/getStarted/cupojava/win32.html
