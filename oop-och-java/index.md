@@ -103,26 +103,51 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 Lektionstillfällen
 -------------------
 
-### Tisdag 30 aug
-
-Vi pratade allmänt om utbildningen och om begreppet "Systemutvecklare". Även en kortare intro till datorer, programmering samt lite kort om binära tal.
-
 ### Onsdag 31 aug
+**Att göra till tisdag 6 sep**
+
+* Kolla på följande länkar (behöver skaffa en gratis 10-days trial på lynda för att kunna använda materialet)
+
+	-What is programming? from the Course Foundations of Programming: Fundamentals
+	http://www.lynda.com/Developer-Programming-Foundations-tutorials/What-programming/83603/90430-4.html
+
+	-Meet the Professional | Computer programming | Khan Academy
+	https://www.khanacademy.org/computing/computer-programming/meet-the-computing-professional
+
+* Läs [kursplaneringen](kursplanering-OOP-och-Java.pdf)
+
+* Skriv ett direct message till Martin på Slack. 
+	 Där ni presenterar er samt beskriver: 
+	-Era nuvarande programmeringskunskaper
+	-"jag har valt denna utbildningen därför att..."
+	-"Under utbildningen skulle jag vilja lära mig..."
+	
+Dels för att jag ska lära känna er bättre och dels för att visa att ni kommit igång med Slack.
+
 
 **IDE**
-https://workflowy.com/s/KMIswrqLXE
 
-Välj en IDE per person
+[Vad kan man tänka på vid valet av en texteditor?](https://workflowy.com/s/KMIswrqLXE)
+
+
+Testa någon IDE
 
     Exempel: Noteblock, Notepad++, Textpad, Sublime Text, Atom
 
-Undersök IDE
+**Sammanfattning över IDE's från lektionen**
+Noteblock: Ingen som testade
 
-    Spontana intryck?
-    Vad är bra? Vad är dåligt?
-    Kan ni få text editorn att kompilera och köra er Javakod utan att du behöver använda kommandoprompten? Hur?
-    Gör HelloWorld!
-    Rita ut ett tre-i-rad-spelbräde (förbättra gärna!) Förtydligande: gör ett program som ritar ut ett spelbräde för tre-i-rad
+Notepad++: Rekommenderas inte för Java, gick inte att köra program
+
+Textpad: Enkel och ganska bra
+
+Sublime: Enkel, snabb, snygg, kräver dock lite arbete för att kunna köra program
+
+Atom: Snygg, gick ej köra program
+
+JGrasp: Enkel, går att köra kod, okej utseendemässigt
+
+DrJava: Bra design, går att köra kod
 
 
 **Bra länkar**
@@ -139,7 +164,7 @@ http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
 "Hello World!" for Microsoft Windows (The Java™ Tutorials > Getting Started > The "Hello World!" Application)
 https://docs.oracle.com/javase/tutorial/getStarted/cupojava/win32.html
 
-SoloLearn: Modul 1--8 (hoppa över nr 6)
+SoloLearn: Modul 1-8 (hoppa över nr 6) Rättelse: Går ej att hoppa över nr6
 http://www.sololearn.com/Course/Java/
 
 Hello, World! - Learn Java - Free Interactive Java Tutorial
@@ -161,22 +186,10 @@ http://docs.oracle.com/javase/tutorial/getStarted/intro/changemylife.html
 Lesson: A Closer Look at the "Hello World!" Application (The Java™ Tutorials > Getting Started)
 http://docs.oracle.com/javase/tutorial/getStarted/application/index.html
 
-**Att göra till tisdag 6 sep**
 
-* Kolla på följande länkar (behöver skaffa en gratis 10-days trial på lynda för att kunna använda materialet)
 
-	-What is programming? from the Course Foundations of Programming: Fundamentals
-	http://www.lynda.com/Developer-Programming-Foundations-tutorials/What-programming/83603/90430-4.html
 
-	-Meet the Professional | Computer programming | Khan Academy
-	https://www.khanacademy.org/computing/computer-programming/meet-the-computing-professional
 
-* Läs [kursplaneringen](kursplanering-OOP-och-Java.pdf)
+### Tisdag 30 aug
 
-* Skriv ett direct message till Martin på Slack. 
-	 Där ni presenterar er samt beskriver: 
-	-Era nuvarande programmeringskunskaper
-	-"jag har valt denna utbildningen därför att..."
-	-"Under utbildningen skulle jag vilja lära mig..."
-	
-Dels för att jag ska lära känna er bättre och dels för att visa att ni kommit igång med Slack.
+Vi pratade allmänt om utbildningen och om begreppet "Systemutvecklare". Även en kortare intro till datorer, programmering samt lite kort om binära tal.
