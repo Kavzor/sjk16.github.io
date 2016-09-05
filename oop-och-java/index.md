@@ -53,7 +53,7 @@ Kursen examineras med spelprojekt och tentamina.
 
 ### Spelprojekt
 
-**[Spelprojekt 1: Tre-i-rad](tre-i-rad.md)**
+**[Spelprojekt 1: Tre-i-rad](tre-i-rad.html)**
 Skapa ett spelbart tre-i-rad i terminalen/kommandotolken mellan två mänskliga spelare.
 
 **Spelprojekt 2: Yatzy**
