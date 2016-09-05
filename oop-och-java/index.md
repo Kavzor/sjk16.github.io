@@ -102,6 +102,7 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 
 Lektionstillfällen
 -------------------
+
 ### Tisdag 6 sep
 
 **Övningar**
