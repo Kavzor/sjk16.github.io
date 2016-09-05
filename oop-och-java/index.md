@@ -102,6 +102,42 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 
 Lektionstillfällen
 -------------------
+### Tisdag 6 sep
+
+**Övningar**
+
+Programming by Doing - Assignment 9--13
+https://programmingbydoing.com/
+
+Java Tutorial | Lesson 9--12	
+http://www.sololearn.com/Course/Java/
+
+Variables and Types - Learn Java - Free Interactive Java Tutorial
+http://www.learnjavaonline.org/en/Variables_and_Types
+
+
+**Relevanta länkar**
+String (Java Platform SE 8 )
+http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+
+**Fördjupande läsning**
+Lesson: Language Basics (The Java™ Tutorials > Learning the Java Language)
+http://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+
+Lesson: Numbers and Strings (The Java™ Tutorials > Learning the Java Language)
+http://docs.oracle.com/javase/tutorial/java/data/index.html
+
+
+**Fördjupande läsning/övningar**
+
+Variables, Methods and Parameters - Learneroo
+https://www.learneroo.com/modules/11/nodes/101
+
+Variables in Programming and Algebra - Learneroo
+https://www.learneroo.com/modules/11/nodes/102
+
+
 
 ### Onsdag 31 aug
 **Att göra till tisdag 6 sep**
