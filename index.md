@@ -20,6 +20,8 @@ Onsdagar | 8:15--16:30
 Martin Frisk 
 <martin.frisk@zocom.se>
 
+Erik Leander (Regionchef ZoCom)
+<erik.leander@zocom.se>
 
 **Utbildningsledare**
 
