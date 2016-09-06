@@ -69,4 +69,6 @@ Dessutom ska koden vara strukturerad och tydligt följa en etablerad stilguide. 
 Redovisning
 -----------
 
-Preliminärt ska du vara redo att redovisa din lösning till torsdag 24 september.
+Preliminärt ska du vara redo att redovisa din lösning till tisdag 27 september.
+
+Redovisningen sker enskilt för Martin, där ni först visar upp ert program och demonstrerar att det fungerar. Därefter kollar vi på koden gemensamt och ni ska vara redo att kunna redogöra för alla delar av koden.
