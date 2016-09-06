@@ -108,6 +108,8 @@ Lektionstillfällen
 **Kod från idag**
 [Om variabler](https://slack-files.com/T23V5G5DF-F28KS3ZGD-767fea7342)
 
+[Lösningsförslag till övningarna vi gjorde på lektionen](https://slack-files.com/T23V5G5DF-F28KKNBRA-ada0742ec1)
+Notera att detta endast är ett förslag på en lösning. Det finns flera andra sätt som uppgifterna kan lösas på!
 
 **Övningar**
 
