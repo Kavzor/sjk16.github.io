@@ -117,7 +117,7 @@ Conditionals - Learn Java - Free Interactive Java Tutorial
 http://learnjavaonline.org/en/Conditionals
 
 **Relevanta övningar**
-Programming by Doing - Assignment 14--25
+Programming by Doing - Assignment 14--27
 https://programmingbydoing.com/
 
 Java Tutorial | Lesson 13--18	
