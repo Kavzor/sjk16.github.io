@@ -103,6 +103,37 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 Lektionstillfällen
 -------------------
 
+### Onsdag 7 sep
+
+
+**Mer läsning**
+Math and Comparison Operators - Learneroo
+https://www.learneroo.com/modules/11/nodes/103
+
+If Statement - Learneroo
+https://www.learneroo.com/modules/11/nodes/104
+
+Conditionals - Learn Java - Free Interactive Java Tutorial
+http://learnjavaonline.org/en/Conditionals
+
+**Relevanta övningar**
+Programming by Doing - Assignment 14--25
+https://programmingbydoing.com/
+
+Java Tutorial | Lesson 13--18	
+http://www.sololearn.com/Course/Java/
+ 
+
+#### Utmaningar
+Palindrom
+: Kolla om inmatat ord/mening är samma baklänges (t.ex. "naturrutan", "ni talar bra latin")
+
+Skottår (leap year)
+: Kontrollera om inmatat årtal är skottår
+
+Personnummer
+: Kontrollera om inmatad sträng är ett giltigt personnummer (rätt antal tecken, giltigt födelsedatum och kontrollsiffra)
+
 ### Tisdag 6 sep
 
 **Kod från idag**
