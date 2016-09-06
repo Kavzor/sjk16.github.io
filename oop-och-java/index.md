@@ -105,6 +105,10 @@ Lektionstillfällen
 
 ### Tisdag 6 sep
 
+**Kod från idag**
+[Om variabler](https://slack-files.com/T23V5G5DF-F28KS3ZGD-767fea7342)
+
+
 **Övningar**
 
 Programming by Doing - Assignment 9--13
