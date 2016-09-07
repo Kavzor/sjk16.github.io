@@ -138,7 +138,7 @@ Java Tutorial | Lesson 13--18
 http://www.sololearn.com/Course/Java/
  
 
-#### Utmaningar
+#### Utmaningar (OBS, de ligger under rubriken utmaningar av en anledning. Klarar ni inte av dem denna veckan så gå tillbaka och försök lösa dem senare)
 Palindrom
 : Kolla om inmatat ord/mening är samma baklänges (t.ex. "naturrutan", "ni talar bra latin")
 
