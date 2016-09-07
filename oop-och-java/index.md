@@ -103,8 +103,20 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 Lektionstillfällen
 -------------------
 
+**Att göra till tisdag 13 sep**
+Sök upp en stilguide (“style guide”) för Java. Fundera lite kring dina intryck, till exempel:
+
+   Finns det något du inte håller med om, som kan göras “snyggare”?
+    När är det lämpligt att bryta mot stilguiden?
+    Om du har erfarenheter av programmering sen tidigare…
+        …vilka “fel” har du gjort som bryter mot stilguiden?
+        …skiljer sig stilguiden åt från stilguiden för ett annat språk du programmerat i tidigare? Hurdå?
+
 ### Onsdag 7 sep
 
+**Kod från idag**
+[Strängar, tal, booleans och if-satser](https://slack-files.com/T23V5G5DF-F293J9FHT-15e0553a1a)
+[Inmatning från användare](https://slack-files.com/T23V5G5DF-F293D3FNY-a6fe0dc97c)
 
 **Mer läsning**
 Math and Comparison Operators - Learneroo
