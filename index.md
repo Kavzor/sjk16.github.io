@@ -35,9 +35,6 @@ Resurser
 **Slack**
 https://sjk16.slack.com/
 
-**JENSENonline**
-https://yh.jenseneducation.se/
-
 
 Kurser
 ------
