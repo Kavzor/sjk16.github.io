@@ -103,7 +103,36 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 Lektionstillfällen
 -------------------
 
+### Tisdag
 
+**Utskrift med formatering**
+Formatting (The Java™ Tutorials > Essential Classes > Basic I/O)
+https://docs.oracle.com/javase/tutorial/essential/io/formatting.html
+
+Java For Complete Beginners - formatted strings
+http://www.homeandlearn.co.uk/java/java_formatted_strings.html
+
+
+**Övningar/fördjupande läsning**
+
+Programming by Doing - Assignment 48--75
+https://programmingbydoing.com/
+
+While and For Loops - Learneroo
+https://www.learneroo.com/modules/11/nodes/132
+
+Loopy Thinking - Learneroo
+https://www.learneroo.com/modules/11/nodes/573
+
+Java Tutorial | SoloLearn: Assignments 19--22
+http://www.sololearn.com/Course/Java/
+
+Loops - Learn Java - Free Interactive Java Tutorial
+http://www.learnjavaonline.org/en/Loops
+
+Control Flow Statements (The Java™ Tutorials > Learning the Java Language > Language Basics)
+http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
+ 13 sep
 
 ### Onsdag 7 sep
 **Att göra till tisdag 13 sep**
