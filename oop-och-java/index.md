@@ -103,7 +103,7 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 Lektionstillfällen
 -------------------
 
-### Tisdag
+### Tisdag 13 sep
 
 **Utskrift med formatering**
 Formatting (The Java™ Tutorials > Essential Classes > Basic I/O)
