@@ -110,12 +110,7 @@ Lektionstillfällen
 [Switch](https://slack-files.com/T23V5G5DF-F2B510B5G-e574fff8fb)
 [For/While](https://sjk16.slack.com/files/mfris/F2B4RK7QE/forandwhile.java)
 
-**Utskrift med formatering**
-Formatting (The Java™ Tutorials > Essential Classes > Basic I/O)
-https://docs.oracle.com/javase/tutorial/essential/io/formatting.html
 
-Java For Complete Beginners - formatted strings
-http://www.homeandlearn.co.uk/java/java_formatted_strings.html
 
 
 **Övningar/fördjupande läsning**
