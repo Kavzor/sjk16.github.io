@@ -103,6 +103,38 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 Lektionstillfällen
 -------------------
 
+### Onsdag 14 sep
+
+**Övningar**
+Arrays - Learn Java - Free Interactive Java Tutorial
+http://www.learnjavaonline.org/en/Arrays
+
+SoloLearn: Module 3
+http://www.sololearn.com/Course/Java/
+
+Arrays - Learneroo
+https://www.learneroo.com/modules/11/nodes/110
+https://www.learneroo.com/modules/11/nodes/111
+
+Programming by Doing: Assignments 138--150
+https://programmingbydoing.com/
+
+Variables, Methods and Parameters - Learneroo
+https://www.learneroo.com/modules/11/nodes/101
+
+Programming by Doing - Assignments 97--113
+https://programmingbydoing.com/
+
+**Fördjupande läsning**
+Arrays (The Java™ Tutorials > Learning the Java Language > Language Basics)
+http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
+
+Defining Methods (The Java™ Tutorials > Learning the Java Language > Classes and Objects)
+http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+
+Functions - Learn Java - Free Interactive Java Tutorial
+http://www.learnjavaonline.org/en/Functions
+
 ### Tisdag 13 sep
 
 **Kod från idag**
