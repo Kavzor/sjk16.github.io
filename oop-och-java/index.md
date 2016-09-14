@@ -105,13 +105,29 @@ Lektionstillfällen
 
 ### Tisdag 13 sep
 
-*Kod från idag*
+**Kod från idag**
 
 [Switch](https://slack-files.com/T23V5G5DF-F2B510B5G-e574fff8fb)
 [For/While](https://sjk16.slack.com/files/mfris/F2B4RK7QE/forandwhile.java)
 
+**Uppgifter vi gjorde under dagen**
+FizzBuzz
+: Skriv ett program som skriver ut varje tal mellan 1-100. Men om talet är delbart med 3, skriv Fizz, är talet delbart med 5, skriv Buzz. Om talet är delbart med både 3 och 5 skriv FizzBuzz.
 
+FizzBuzz svårare variant
+: Skriv ett program som skriver ut varje tal mellan 1-100. Men om talet innehåller en 3a skriva Fizz, om det innehåller en 5a skriv Buzz. Vill man göra det ännu svårare se till att programmet skriver ut 33 som FizzFizz, 35 som FizzBuzz, 53 som BuzzFizz, 55 som BuzzBuzz.
 
+Stjärnmönster med nested For
+: Skriv ett program som ritar ut följande mönster. Låt den yttre for-loopen representera en rad och låt den inre skriva ut en stjärna åt gången. Tips. Använd funktionen System.out.print() istället för System.out.println()
+``` java
+* * * *
+ * * *
+* * * *
+ * * *
+``` 
+
+Number Guessing Game
+: Skriv ett litet spel som låter användaren gissa på vilket tal du valt mellan 1-100. Användaren ska få fem gissningar. Gissar användaren för högt ska det meddelas och gissar användaren för lågt ska det meddelas så användaren vet hur den ska gissa nästa gång. Om användaren gissar rätt ska det meddelas och spelet avslutas. 
 
 **Övningar/fördjupande läsning**
 
