@@ -107,7 +107,7 @@ Lektionstillfällen
 
 **Att göra tills tis 20 sep**
 
-Läs om formatterad utskrift i Java
+Läs om formaterad utskrift i Java
 
 Formatting (The Java™ Tutorials > Essential Classes > Basic I/O)
 https://docs.oracle.com/javase/tutorial/essential/io/formatting.html
