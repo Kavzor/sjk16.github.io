@@ -121,8 +121,11 @@ Stjärnmönster med nested For
 : Skriv ett program som ritar ut följande mönster. Låt den yttre for-loopen representera en rad och låt den inre skriva ut en stjärna åt gången. Tips. Använd funktionen System.out.print() istället för System.out.println()
 ``` java
 * * * *
+ 
  * * *
+
 * * * *
+
  * * *
 ``` 
 
