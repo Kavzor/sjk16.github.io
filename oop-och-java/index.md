@@ -105,6 +105,23 @@ Lektionstillfällen
 
 ### Onsdag 14 sep
 
+**Att göra tills tis 20 sep**
+
+Läs om formatterad utskrift i Java
+
+Formatting (The Java™ Tutorials > Essential Classes > Basic I/O)
+https://docs.oracle.com/javase/tutorial/essential/io/formatting.html
+
+Java For Complete Beginners - formatted strings
+http://www.homeandlearn.co.uk/java/java_formatted_strings.html
+
+
+**Kod från idag**
+[Arrays](https://slack-files.com/T23V5G5DF-F2BH6LU5U-d4f2158795)
+[Metoder](https://slack-files.com/T23V5G5DF-F2BH73XM4-12e1127322)
+
+Vi pratade även om flerdimensionella arrays (arrays i arrays). Detta tog vi dock på tavlan. Se bild på Slack.
+
 **Övningar**
 Arrays - Learn Java - Free Interactive Java Tutorial
 http://www.learnjavaonline.org/en/Arrays
