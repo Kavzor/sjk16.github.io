@@ -115,6 +115,7 @@ https://docs.oracle.com/javase/tutorial/essential/io/formatting.html
 Java For Complete Beginners - formatted strings
 http://www.homeandlearn.co.uk/java/java_formatted_strings.html
 
+Vi gjorde en liten ändring i schemat. Om man kollar i kursplaneringen stod det att vi idag skulle pratat om funktioner och GitHub. Vi flyttade istället GitHub till nästa vecka och pratade om arrayer istället.
 
 **Kod från idag**
 [Arrays](https://slack-files.com/T23V5G5DF-F2BH6LU5U-d4f2158795)
