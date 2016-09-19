@@ -103,6 +103,43 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 Lektionstillfällen
 -------------------
 
+### Tisdag 20 sep
+
+**GitHub**
+
+**Länkar**
+
+Set Up Git - User Documentation
+https://help.github.com/articles/set-up-git/
+
+Markdown Basics - User Documentation
+https://help.github.com/articles/markdown-basics/
+
+octocat/Spoon-Knife
+https://github.com/octocat/Spoon-Knife
+
+Understanding the GitHub Flow · GitHub Guides
+https://guides.github.com/introduction/flow/
+
+git - the simple guide - no deep shit!
+http://rogerdudler.github.io/git-guide/
+
+Code School - Try Git
+https://try.github.io/levels/1/challenges/1
+
+GitHub Glossary - User Documentation
+https://help.github.com/articles/github-glossary/
+
+How does Git work? Git Tutorial for Beginners
+https://examples.javacodegeeks.com/software-development/git/git-tutorial-beginners/
+
+Setting up a GitHub repo
+https://www.youtube.com/watch?v=RGbxqmjJa64
+
+GitHub For Noobs (fyra Youtube-klipp)
+https://www.youtube.com/playlist?list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw
+
+
 ### Onsdag 14 sep
 
 **Att göra tills tis 20 sep**
