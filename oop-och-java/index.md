@@ -107,6 +107,13 @@ Lektionstillfällen
 
 **GitHub**
 
+* Registrera ett konto på [GitHub](https://github.com/)
+* För Windows/Mac ladda ned [GitHub Desktop](https://desktop.github.com/)
+* För Linux: apt-get install git
+* Posta länk till ert GitHub-konto i ett direct message till Martin på Slack
+
+
+
 **Länkar**
 
 Set Up Git - User Documentation
