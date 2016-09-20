@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "OOP och Java"
 kramdown: 
@@ -112,7 +112,7 @@ Lektionstillfällen
 * För Windows/Mac ladda ned [GitHub Desktop](https://desktop.github.com/)
 * För Linux: apt-get install git
 * Posta länk till ert GitHub-konto i ett direct message till Martin på Slack
-* Gör följande tutorial [codeacademy Git] https://www.codecademy.com/learn/learn-git
+* Gör följande tutorial [codeacademy Git](https://www.codecademy.com/learn/learn-git)
 
 
 =======
