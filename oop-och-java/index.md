@@ -113,7 +113,7 @@ Lektionstillfällen
 * För Linux: apt-get install git
 * Posta länk till ert GitHub-konto i ett direct message till Martin på Slack
 * Gör följande tutorial [codeacademy Git](https://www.codecademy.com/learn/learn-git)
-
+* När ni är klara med CodeAcademy tutorial ovan så gör följande [övningar](öva-på-git.pdf)
 
 **Länkar**
 
