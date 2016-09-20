@@ -107,6 +107,7 @@ Lektionstillfällen
 
 **GitHub**
 
+<<<<<<< HEAD
 * Registrera ett konto på [GitHub](https://github.com/)
 * För Windows/Mac ladda ned [GitHub Desktop](https://desktop.github.com/)
 * För Linux: apt-get install git
@@ -114,6 +115,8 @@ Lektionstillfällen
 * Gör följande tutorial [codeacademy Git] https://www.codecademy.com/learn/learn-git
 
 
+=======
+>>>>>>> parent of d3b78f1... Update index.md
 **Länkar**
 
 Set Up Git - User Documentation
