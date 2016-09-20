@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "OOP och Java"
 kramdown: 
