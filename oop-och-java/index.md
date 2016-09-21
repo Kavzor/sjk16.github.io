@@ -106,6 +106,9 @@ Lektionstillfällen
 ### Onsdag 21 sep
 Som jag sade tidigare idag (tisdag 20e) har det smugit sig in ett fel i planeringen för kursen OOP och Java. I kursplaneringen ligger endast 11 veckor inplanerade men kursen är 60 poäng (12 veckor). Detta gör att jag kommer skriva om kursplaneringen i slutet av denna veckan. Jag har även förstått att många känner sig stressade inför kommande redovisning och tentamen och känner att det är högt tempo. Med detta i åtanke har jag valt att flytta allt som har med objektorienterad programmering, klasser och objekt till vecka 42 (efter era två veckor med teknisk projektledning). Jag kommer ta morgondagen (onsdagen 21e) som ett repetitionstillfälle där jag kommer gå igenom allt vi har gått igenom hittills.  
 
+[Exempeltenta](Exempeltenta_SJK16_Javagrunder.pdf)
+Ovan är ett exempel på hur frågorna kommer se ut på tentan. Exempeltentan består endast av sex uppgifter medan den riktiga tentan kommer ha 25 uppgifter. Uppgifterna är värda 1 poäng styck, således kommer maxpoäng på tentan att vara 25 poäng. För godkänt krävs 17 poäng.
+
 
 
 ### Tisdag 20 sep
