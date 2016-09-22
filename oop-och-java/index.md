@@ -64,8 +64,9 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 
 **Tentamen 1: Grundläggande programmering i Java** 
 
-* Tentamen 1 är skriftlig -- ta med kladdpapper, penna och sudd.
+* Tentamen 1 är skriftlig -- ta med penna och sudd.
 * Betyg på tentamen 1 är antingen icke godkänt (IG) eller godkänt (G).
+* Tentamen 1 består av 25 flervalsfrågor som ger ett (1) poäng vardera. 17 poäng ger garanterat betyget G.
 * Tentamen 1 behandlar:
 	* Om Java
 	* Syntax
@@ -76,13 +77,14 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 	* Tal
 	* Villkorssatser
 	* Repetitionssatser
-	* Funktioner (metoder)
-	* Vektorer (arrayer) 
+	* Metoder
+	* Arrayer 
 
 **Tentamen 2: Objektorienterad programmering i Java** 
 
-* Tentamen 2 är skriftlig -- ta med kladdpapper, penna och sudd.
+* Tentamen 2 är skriftlig -- ta med penna och sudd.
 * Betyg på tentamen 2 är antingen icke godkänt (IG) eller godkänt (G).
+* Tentamen 2 består av 25 flervalsfrågor som ger ett (1) poäng vardera. 17 poäng ger garanterat betyget G.
 * Tentamen 2 behandlar:
 	* Objekt
 	* Klasser
