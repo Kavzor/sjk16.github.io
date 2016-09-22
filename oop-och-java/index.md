@@ -23,8 +23,9 @@ public class Main {
 
 Info
 ----
-[Kursplanering (pdf)](kursplanering-OOP-och-Java.pdf)
+[Kursplanering](kursplanering-OOP-och-Java.pdf)
 
+[Uppdaterad översikt över HT16](HT16.pdf)
 
 
 ### Bra resurser
