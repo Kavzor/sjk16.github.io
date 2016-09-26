@@ -105,9 +105,28 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 
 Lektionstillfällen
 -------------------
+
+### Onsdag 28 sep
+
+På tentamen kan man få betyget G eller IG. Får man IG får man skriva en omtentamen senare i höst.  Det ligger en övningstenta med exempeluppgifter uppe på kurshemsidan.
+
+Praktisk information inför tentamen:
+
+**Tid:** Onsdag 28e september 09.00-11.00
+
+**Plats:** Förnamn A-K sitter i sal S22, Förnamn M-V sitter i sal S24
+
+**Betygsgränser:** Tentamen består av 25 uppgifter som ger ett (1) poäng vardera. 17 poäng ger garanterat betyget G.
+
+**Ta med:** Penna, sudd, legitimation
+
+Eftersom jag kommer sitta som tentavakt i den ena salen och en annan person som inte känner er sitter som tentavakt i den andra salen är det viktigt att ni har med er legitimation för att kunna visa att det är ni som skriver tentamen och inte någon annan.
+
 ### Tisdag 27 sep
 
 [Redovisningstider](https://slack-files.com/T23V5G5DF-F2E8DG0LD-05c871e276)
+
+På eftermiddagen är det frågestund inför tentamen.
 
 
 ### Onsdag 21 sep
