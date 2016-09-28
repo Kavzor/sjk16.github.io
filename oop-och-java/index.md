@@ -108,6 +108,9 @@ Lektionstillfällen
 
 ### Onsdag 28 sep
 
+[Onsdagens tentamen](Tentamen1_JAVA.pdf)
+[Facit](facit_java.pdf)
+
 Tentamen klo 09.00-11.00. Skrivtiden börjar kl prick klo 09.00, så se till att vara där i tid. Är man mer än 45 minuter sen får man inte skriva tentamen. Alla som skriver tentamen måste sitta minst 45 minuter.
 
 På tentamen kan man få betyget G eller IG. Får man IG får man skriva en omtentamen senare i höst.  Det ligger en övningstenta med exempeluppgifter uppe på kurshemsidan.
