@@ -31,9 +31,9 @@ Föreläsningar
 
 Datum  | Dag | Moment
 -------|-----|--------------
-4 okt | mån | 
-5 okt | tors | 
-11 okt | mån |  
-12 okt | tors |  
+4 okt | tis | 
+5 okt | ons | 
+11 okt | tis |  
+12 okt | ons |  
 
 
