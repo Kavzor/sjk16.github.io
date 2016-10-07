@@ -80,6 +80,8 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 	* Repetitionssatser
 	* Metoder
 	* Arrayer 
+	
+Omtentamen ges fredag 21 oktober kl 09-11
 
 **Tentamen 2: Objektorienterad programmering i Java** 
 
