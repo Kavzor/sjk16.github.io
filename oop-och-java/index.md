@@ -25,7 +25,7 @@ Info
 ----
 [Kursplanering](kursplanering-OOP-och-Java.pdf)
 
-[Uppdaterad översikt över HT16](HT16.pdf)
+[Uppdaterad översikt över HT16- uppdaterad 17e oktober](HT16.pdf)
 
 
 ### Bra resurser
