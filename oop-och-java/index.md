@@ -108,6 +108,25 @@ Omtentamen ges fredag 21 oktober kl 09-11
 Lektionstillfällen
 -------------------
 
+### Tisdag 18 okt
+
+Vi pratade om objektorientering och hur klasser och objekt fungerar i Java.
+
+Resurser och länkar:
+https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
+
+https://docs.oracle.com/javase/tutorial/java/concepts/class.html
+
+https://www.tutorialspoint.com/java/java_object_classes.html
+
+http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
+
+http://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep
+
+http://www.javatpoint.com/java-oops-concepts
+
+https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html
+
 ### Onsdag 28 sep
 
 [Onsdagens tentamen](Tentamen1_JAVA.pdf)
