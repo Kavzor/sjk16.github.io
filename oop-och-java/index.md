@@ -117,7 +117,7 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
 
 https://docs.oracle.com/javase/tutorial/java/concepts/class.html
 
-https://www.tutorialspoint.com/java/java_object_classes.html
+https://www.tutorialspoint.com/java/java_object_classes.htm
 
 http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
 
