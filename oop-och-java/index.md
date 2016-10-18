@@ -110,7 +110,7 @@ Lektionstillfällen
 
 ### Tisdag 18 okt
 
-Vi pratade om objektorientering och hur klasser och objekt fungerar i Java.
+Vi pratade om objektorientering och hur klasser och objekt fungerar i Java. Se kanalen "code" på Slack för kod som vi jobbade med under dagen.
 
 Resurser och länkar:
 https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
