@@ -127,9 +127,7 @@ http://www.javatpoint.com/java-oops-concepts
 
 https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html
 
-Övningar:
-
-http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_i_Java_(introduktion)
+[Övningar](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_i_Java_(introduktion)
 
 ### Onsdag 28 sep
 
