@@ -85,28 +85,23 @@ Omtentamen ges fredag 21 oktober kl 09-11
 
 **Tentamen 2: Objektorienterad programmering i Java** 
 
-* Tentamen 2 är skriftlig -- ta med penna och sudd.
-* Betyg på tentamen 2 är antingen icke godkänt (IG) eller godkänt (G).
-* Tentamen 2 består av 25 flervalsfrågor som ger ett (1) poäng vardera. 17 poäng ger garanterat betyget G.
-* Tentamen 2 behandlar:
-	* Objekt
-	* Klasser
-	* Instansvariabler
-	* Klassvariabler
-	* Statiska och icke-statiska metoder
-	* Arv
-	* Konstruktor
-	* Begreppen `this` och `super`
-	* UML (enklare klassdiagram)
-		* Arv (_is-a_)
-		* Ägande (_has-a_)
-			* Aggregering (_aggregation_)
-			* Sammansättning/komposition (_composition_)
-	* Överlagring (overloading) / Överskuggning (override) 
+Tentamen två utgår.
 
 
 Lektionstillfällen
 -------------------
+
+### Onsdag 19 okt
+
+Mer om objektorientering, klasser och begrepp inom detta område. Se kanalen lectures på Slack för bilder från det vi gick igenom på tavlan.
+
+Några fler länkar:
+
+https://www.it.uu.se/edu/course/homepage/oopjava/st10/notes/f01-oop-java.html
+
+https://www.tutorialspoint.com/java/java_encapsulation.htm
+
+
 
 ### Tisdag 18 okt
 
