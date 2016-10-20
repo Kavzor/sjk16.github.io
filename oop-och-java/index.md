@@ -93,6 +93,14 @@ Lektionstillfällen
 
 ### Onsdag 19 okt
 
+**Uppgift till nästa vecka om kortspel**
+
+Antingen i grupp eller individuellt, välj ut några kortspel.
+
+1. Jämför några kortspel i hur komplicerade de är och hur lätta de skulle vara att implementera i kod.
+2. Välj ut ett av spelen och fundera kring vad som motsvarar klasser och objekt.
+3. Ta fram [pseudo-kod](https://sv.wikipedia.org/wiki/Pseudokod) för kortspelet, dvs en skiss på hur koden skulle kunna se ut.
+
 Mer om objektorientering, klasser och begrepp inom detta område. Se kanalen lectures på Slack för bilder från det vi gick igenom på tavlan.
 
 Några fler länkar:
