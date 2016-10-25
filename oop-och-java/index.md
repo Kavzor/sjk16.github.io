@@ -90,6 +90,7 @@ Tentamen två utgår.
 
 Lektionstillfällen
 -------------------
+
 ### Tisdag 25 okt
 
 [Övningar om arv](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_och_arv_i_Java)
