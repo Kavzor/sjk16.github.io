@@ -90,6 +90,22 @@ Tentamen två utgår.
 
 Lektionstillfällen
 -------------------
+### Tisdag 25 okt
+
+[Övningar om arv](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_och_arv_i_Java)
+[Övningar om slumptal](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_slumptal_i_Java)
+
+Resurser och länkar om arv
+
+https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
+
+https://www.tutorialspoint.com/java/java_inheritance.htm
+
+http://beginnersbook.com/2013/03/inheritance-in-java/
+
+http://www.javatpoint.com/inheritance-in-java
+
+http://www.wideskills.com/java-tutorial/java-inheritance
 
 ### Onsdag 19 okt
 
