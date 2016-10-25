@@ -93,7 +93,8 @@ Lektionstillfällen
 
 ### Tisdag 25 okt
 
-[Övningar om arv](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_och_arv_i_Java)
+[Övningar om arv](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_och_arv_i_Java) Gör 1,2,3,4,6,7. Uppgift 3 och 4 bygger på [övningarna](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_i_Java_(introduktion)) från förra veckan.
+
 [Övningar om slumptal](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_slumptal_i_Java)
 
 Resurser och länkar om arv
