@@ -91,6 +91,17 @@ Tentamen två utgår.
 Lektionstillfällen
 -------------------
 
+### Onsdag 26 okt
+
+Uppgift till efter lunch:
+
+* Skapa en klass för spelare som ärver från en klass "människa", 
+	* Se till att spelare kan ha poäng och ett kort
+* Skriv kod för att ta ut ett slumpmässigt kort ur kortleken och tilldela en spelare
+	* Hur slumpar vi kort ur en en ArrayList/Array?
+* Jämför två spelares kort
+	* Vem har kortet med högst valör? Tilldela den spelaren en poäng!
+
 ### Tisdag 25 okt
 
 [Övningar om arv](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_och_arv_i_Java) Gör 1,2,3,4,6,7. Uppgift 3 och 4 bygger på [övningarna](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_i_Java_(introduktion)) från förra veckan.
