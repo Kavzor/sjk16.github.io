@@ -67,11 +67,11 @@ Vecka  | Kurs
 41  | Teknisk projektledning
 42  | OOP och Java
 43  | OOP och Java
-44  | OOP och Java
+44  | OOP och design
 45  | OOP och design
 46  | OOP och design
 47  | OOP och Java
 48  | OOP och Java
 49  | OOP och Java
-50  | OOP och design
-51  | OOP och design
+50  | OOP och Java
+51  | OOP och Java
