@@ -25,7 +25,7 @@ Info
 ----
 [Kursplanering](kursplanering-OOP-och-Java.pdf)
 
-[Uppdaterad översikt över HT16](HT16.pdf)
+[Uppdaterad översikt över HT16- uppdaterad 17e oktober](HT16.pdf)
 
 
 ### Bra resurser
@@ -80,31 +80,97 @@ Skapa ett Yatzy med grafik och objektorienterad programmering.
 	* Repetitionssatser
 	* Metoder
 	* Arrayer 
+	
+Omtentamen ges fredag 21 oktober kl 09-11
 
 **Tentamen 2: Objektorienterad programmering i Java** 
 
-* Tentamen 2 är skriftlig -- ta med penna och sudd.
-* Betyg på tentamen 2 är antingen icke godkänt (IG) eller godkänt (G).
-* Tentamen 2 består av 25 flervalsfrågor som ger ett (1) poäng vardera. 17 poäng ger garanterat betyget G.
-* Tentamen 2 behandlar:
-	* Objekt
-	* Klasser
-	* Instansvariabler
-	* Klassvariabler
-	* Statiska och icke-statiska metoder
-	* Arv
-	* Konstruktor
-	* Begreppen `this` och `super`
-	* UML (enklare klassdiagram)
-		* Arv (_is-a_)
-		* Ägande (_has-a_)
-			* Aggregering (_aggregation_)
-			* Sammansättning/komposition (_composition_)
-	* Överlagring (overloading) / Överskuggning (override) 
+Tentamen två utgår.
 
 
 Lektionstillfällen
 -------------------
+
+### Onsdag 26 okt
+
+Vi pratade även vidare om klasser i allmänhet. Vi pratade även om hjälpklasser (eng. utility classes) som är klasser som tjänstgör som behållare åt metoder vi anser höra ihop.
+
+Pratade även om keywordet final i java:
+final på en variabel innebär att den inte går att ändra efter initialisering.
+
+final på en metod innebär att den inte går att override
+
+final på en klass innebär att man inte kan ärva från den.
+
+Uppgift till efter lunch:
+
+* Skapa en klass för spelare som ärver från en klass "människa", 
+	* Se till att spelare kan ha poäng och ett kort
+* Skriv kod för att ta ut ett slumpmässigt kort ur kortleken och tilldela en spelare
+	* Hur slumpar vi kort ur en en ArrayList/Array?
+* Jämför två spelares kort
+	* Vem har kortet med högst valör? Tilldela den spelaren en poäng!
+
+### Tisdag 25 okt
+
+[Övningar om arv](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_och_arv_i_Java) Gör 1,2,3,4,6,7. Uppgift 3 och 4 bygger på [övningarna](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_i_Java_(introduktion)) från förra veckan.
+
+[Övningar om slumptal](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_slumptal_i_Java)
+
+Resurser och länkar om arv
+
+https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
+
+https://www.tutorialspoint.com/java/java_inheritance.htm
+
+http://beginnersbook.com/2013/03/inheritance-in-java/
+
+http://www.javatpoint.com/inheritance-in-java
+
+http://www.wideskills.com/java-tutorial/java-inheritance
+
+### Onsdag 19 okt
+
+**Uppgift till nästa vecka om kortspel**
+
+Antingen i grupp eller individuellt, välj ut några kortspel.
+
+1. Jämför några kortspel i hur komplicerade de är och hur lätta de skulle vara att implementera i kod.
+2. Välj ut ett av spelen och fundera kring vad som motsvarar klasser och objekt.
+3. Ta fram [pseudo-kod](https://sv.wikipedia.org/wiki/Pseudokod) för kortspelet, dvs en skiss på hur koden skulle kunna se ut.
+
+Mer om objektorientering, klasser och begrepp inom detta område. Se kanalen lectures på Slack för bilder från det vi gick igenom på tavlan.
+
+Några fler länkar:
+
+https://www.it.uu.se/edu/course/homepage/oopjava/st10/notes/f01-oop-java.html
+
+https://www.tutorialspoint.com/java/java_encapsulation.htm
+
+
+
+### Tisdag 18 okt
+
+Vi pratade om objektorientering och hur klasser och objekt fungerar i Java. Se kanalen "code" på Slack för kod som vi jobbade med under dagen.
+
+Resurser och länkar:
+https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
+
+https://docs.oracle.com/javase/tutorial/java/concepts/class.html
+
+https://www.tutorialspoint.com/java/java_object_classes.htm
+
+http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
+
+http://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep
+
+http://www.javatpoint.com/java-oops-concepts
+
+https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html
+
+[Övningar](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_OOP_i_Java_(introduktion))
+Första och sista frågan på övning 1 kan ni hoppa över då vi inte riktigt pratat om det än.
+
 
 ### Onsdag 28 sep
 
