@@ -93,6 +93,15 @@ Lektionstillfällen
 
 ### Onsdag 26 okt
 
+Vi pratade även vidare om klasser i allmänhet. Vi pratade även om hjälpklasser (eng. utility classes) som är klasser som tjänstgör som behållare åt metoder vi anser höra ihop.
+
+Pratade även om keywordet final i java:
+final på en variabel innebär att den inte går att ändra efter initialisering.
+
+final på en metod innebär att den inte går att override
+
+final på en klass innebär att man inte kan ärva från den.
+
 Uppgift till efter lunch:
 
 * Skapa en klass för spelare som ärver från en klass "människa", 
