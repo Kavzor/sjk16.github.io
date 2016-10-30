@@ -93,7 +93,15 @@ Lektionstillfällen
 
 ### Onsdag 26 okt
 
-Vi pratade även vidare om klasser i allmänhet. Vi pratade även om hjälpklasser (eng. utility classes) som är klasser som tjänstgör som behållare åt metoder vi anser höra ihop.
+Vi pratade även vidare om klasser i allmänhet. Vi pratade även om hjälpklasser (eng. utility classes) som är klasser som tjänstgör som behållare åt metoder vi anser höra ihop. Vi pratade även om UML och hur man kan använda det för att designa och visualisera sina program.
+
+Länkar UML:
+
+https://docs.kde.org/stable4/sv/kdesdk/umbrello/uml-elements.html#class-diagram
+
+http://www.csharpskolan.se/article/uml
+
+http://www.tutorialspoint.com/uml/
 
 Pratade även om keywordet final i java:
 final på en variabel innebär att den inte går att ändra efter initialisering.
