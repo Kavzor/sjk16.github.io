@@ -25,6 +25,21 @@ Examination
 Lektionstillfällen
 -------------
 
+### Onsdag 2 november
+
+Väldigt bra [sammanfattning](http://www.faqs.org/docs/think_java/TIJ303.htm) av egentligen allt vi gjort i kursen hittills.
+Läs kap 1-9. Följande rubriker har vi inte gått igenom och kan hoppas över (läs om ni är intresserade):
+Comments and embedded documentation (Kommer senare)
+
+Regular expressions (Kommer inte gås igenom)
+
+Shift operators (Kommer inte gås igenom)
+
+Cleanup: finalization and 
+garbage collection (Kommer inte gås igenom)
+
+Inner classes (Kommer kanske gås igenom)
+
 ### Tisdag 1 november
 
 Kurstart. 
