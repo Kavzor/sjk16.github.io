@@ -15,19 +15,7 @@ Info
 
 * [Kursplanering](kursplanering-OOP-och-design.pdf) (pdf)
 
-
-Examination
------------
-
-
-
-
-Lektionstillfällen
--------------
-
-### Onsdag 2 november
-
-Väldigt bra [sammanfattning](http://www.faqs.org/docs/think_java/TIJ303.htm) av egentligen allt vi gjort i kursen hittills.
+* Väldigt bra [sammanfattning](http://www.faqs.org/docs/think_java/TIJ303.htm) av egentligen allt vi gjort i kursen hittills.
 Läs kap 1-9. 
 Följande rubriker har vi inte gått igenom och kan hoppas över (läs om ni är intresserade):
 
@@ -42,6 +30,42 @@ Kap 4: Cleanup: finalization and
 garbage collection (Kommer inte gås igenom)
 
 Kap 8:Inner classes (Kommer kanske gås igenom)
+
+
+
+Examination
+-----------
+
+
+
+
+Lektionstillfällen
+-------------
+
+### Onsdag 2 november
+
+Repetition om GitHub. 
+
+[CodeAcademys Git Tutorial](https://www.codecademy.com/learn/learn-git)
+
+[Övningar](öva-på-git.pdf)
+
+
+
+Felhantering. Vi pratade om de olika keywordsen try-catch, throw och throws.
+
+Länkar:
+https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html - Javas egna tutorial, beskriver det på ett bra och koncist sätt.
+
+http://www.javatpoint.com/exception-handling-in-java
+
+http://www.javatpoint.com/try-catch-block
+
+https://www.tutorialspoint.com/java/java_exceptions.
+
+http://www.faqs.org/docs/think_java/TIJ311.htm - kapitel 9 här
+
+
 
 ### Tisdag 1 november
 
