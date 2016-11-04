@@ -42,6 +42,40 @@ Examination
 Lektionstillfällen
 -------------
 
+### Onsdag 9 november
+
+8.15-12.00 -Jobba vidare i grupperna. Ni presenterar efter lunch.
+
+### Tisdag 8 november
+
+Collections och Generics
+
+**Sortering**
+En vanlig uppgift som programmerare är att sortera data på något sätt. Det finns ett stort antal sorteringsalgoritmer som alla har sitt användingsområde.
+
+I grupper om 4-5 välj en av sorteringsalgoritmerna nedan och implementera den i Java-kod. Siffran efter algoritmen anger dess svårighetsgrad att implementera i kod. Där 1 är enklast och 2 är lite svårare. Så välj Quick Sort eller Merge Sort om ni vill ha mer av en utmaning.
+
+Urvalssortering (Selection Sort) (1)
+Bubbelsortering (Bubble Sort) (1)
+Insättningssortering (Insertion Sort) (1)
+Quick Sort (2)
+Merge Sort (2)
+
+**Uppgift:**
+
+1. Läs på om algoritmen och förstå hur den fungerar. Se till att alla i gruppen förstår.
+2. Skapa en utility-class MySorting
+3a. I klassen MySorting skapa metoden public static ArrayList<Integer> xxxxSort(ArrayList<Integer> list) (där xxxx=namnet på er sorteringsalgoritm, exvis public static ArrayList<Integer> insertionSort(ArrayList<Integer> list) )som tar in en lista som den skall sortera och returnerar den sorterade listan.
+3b (frivillig extrauppgift). Se till att metoden ovan kan ta emot en ArrayList med godtycklig datatyp T istället för enbart Integer.
+4. Skriv ett testprogram som använder er sorteringsmetod och dema att den fungerar
+5a. Förbered en presentation där ni demar er sorteringsalgoritm och förklarar hur den fungerar, visa gärna en visualiation från https://visualgo.net/sorting
+5b (frivillig extrauppgift) När man pratar om algoritmer inom datavetenskap finns det ett begrepp som heter "tidskomplexitet" som lite förenklat kan förklaras som ett mått på hur "bra" eller snabb en algoritm är som en funktion av dess indata. 
+
+
+
+Här finns en visualisering av algoritmerna https://visualgo.net/sorting
+Vill man hellre ha algoritmerna visualiserade av folkdans rekommenderas denna kanalen på YouTube: https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw
+
 ### Onsdag 2 november
 
 Repetition om GitHub. 
