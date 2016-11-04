@@ -69,7 +69,7 @@ Merge Sort (2)
 4. (frivillig extrauppgift). Se till att metoden ovan kan ta emot en ArrayList med godtycklig datatyp T istället för enbart Integer.
 5. Skriv ett testprogram som använder er sorteringsmetod och dema att den fungerar
 6. Förbered en presentation där ni demar er sorteringsalgoritm och förklarar hur den fungerar, visa gärna en visualiation från https://visualgo.net/sorting
-7. (frivillig extrauppgift) När man pratar om algoritmer inom datavetenskap finns det ett begrepp som heter "tidskomplexitet" som lite förenklat kan förklaras som ett mått på hur "bra" eller snabb en algoritm är som en funktion av dess indata. 
+7. (frivillig extrauppgift) När man pratar om algoritmer inom datavetenskap finns det ett begrepp som heter "tidskomplexitet" som lite förenklat kan förklaras som ett mått på hur "bra" eller snabb en algoritm är som en funktion av dess indata. Försök förklara vad tidskomplexiteten blir för er algoritm och varför det.
 
 
 
