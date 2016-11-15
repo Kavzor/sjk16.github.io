@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: "OOP och Java"
 kramdown: 
@@ -23,9 +23,8 @@ public class Main {
 
 Info
 ----
-[Kursplanering](kursplanering-OOP-och-Java.pdf)
 
-[Uppdaterad översikt över HT16- uppdaterad 17e oktober](HT16.pdf)
+[Uppdaterad översikt över HT16- senast uppdaterad 15e november-mindre revidering](kursplanering-OOP-och-Java.pdf)
 
 
 ### Bra resurser
