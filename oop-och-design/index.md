@@ -31,16 +31,31 @@ garbage collection (Kommer inte gås igenom)
 
 Kap 8:Inner classes (Kommer kanske gås igenom)
 
-
+Kurslitteratur
+-----------
+Design Patterns - Elements of Reusable Object-Oriented Software med ISBN 9780201633610
 
 Examination
 -----------
 
-
+Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgiften kommer under kursen avslutande fyra veckor. Mer info kommer.
 
 
 Lektionstillfällen
 -------------
+
+### Onsdag 16 november
+
+Jakob tar förmiddagen med er. Han kommer prata om mönstrena factory och singleton. På eftermiddagen kommer jag prata om iterators och enums.
+
+### Tisdag 15 november
+Introduktion till designmönster och mönstret MVC. Se kanalerna code och lectures på slack för kod och bilder på tavlan från dagen.
+
+Läs följande kapitel i kursboken Design Patterns tills onsdag 16 november:
+
+* Preface to book
+* Guide to readers
+* Introduction
 
 ### Onsdag 9 november
 
