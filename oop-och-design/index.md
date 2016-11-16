@@ -53,6 +53,14 @@ Tills på onsdag nästa vecka så läs kapitlen "Iterator", "Factory Method" och
 
 På tisdag nästa vecka kommer Jakob att ha en heldag med Swing (grafik i Java) med er. Så det är viktigt att ni kommer då för att inte missa för mycket innan Yatzty-projektet drar igång. På onsdag förmiddag kommer jag att gå igenom hur projektet är tänkt att gå till och på onsdag eftermiddag kommer ni träffa projektledarna för första gången. Så väldigt viktigt att ni är på plats på onsdagen också!
 
+Länkar om materialet från dagen:
+
+https://www.tutorialspoint.com/java/java_using_iterator.htm
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
+
+
 ### Tisdag 15 november
 Introduktion till designmönster och mönstret MVC. Se kanalerna code och lectures på slack för kod och bilder på tavlan från dagen.
 
