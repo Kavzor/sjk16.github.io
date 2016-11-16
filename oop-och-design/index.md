@@ -46,7 +46,12 @@ Lektionstillfällen
 
 ### Onsdag 16 november
 
-Jakob tar förmiddagen med er. Han kommer prata om mönstrena factory och singleton. På eftermiddagen kommer jag prata om iterators och enums.
+Jakob tar förmiddagen med er. Han kommer prata om mönstrena factory och singleton. På eftermiddagen kommer jag prata om iterators och enums. Se Slack för kod vi arbetade med under dagen.
+
+Nu har vi betat av tre veckor av kursen OOP och design och vi går tillbaka till de sista fem veckorna av OOP och Java.
+Tills på onsdag nästa vecka så läs kapitlen "Iterator", "Factory Method" och "Singleton" i kursboken. Vi diskuterar vad ni läst på onsdag nästa vecka. Läs kapitlen kursivt och hoppa över de delar ni känner att ni inte riktigt behärskar just nu.
+
+På tisdag nästa vecka kommer Jakob att ha en heldag med Swing (grafik i Java) med er. Så det är viktigt att ni kommer då för att inte missa för mycket innan Yatzty-projektet drar igång. På onsdag förmiddag kommer jag att gå igenom hur projektet är tänkt att gå till och på onsdag eftermiddag kommer ni träffa projektledarna för första gången. Så väldigt viktigt att ni är på plats på onsdagen också!
 
 ### Tisdag 15 november
 Introduktion till designmönster och mönstret MVC. Se kanalerna code och lectures på slack för kod och bilder på tavlan från dagen.
