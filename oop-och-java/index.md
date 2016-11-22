@@ -24,7 +24,7 @@ public class Main {
 Info
 ----
 
-[Uppdaterad översikt över HT16- senast uppdaterad 15e november-mindre revidering](kursplanering-OOP-och-Java.pdf)
+[Uppdaterad översikt över HT16- senast uppdaterad 22e november-reviderat inför sista 5 veckorna av kursen](HT16.pdf)
 
 
 ### Bra resurser
