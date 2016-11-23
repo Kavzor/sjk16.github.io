@@ -78,7 +78,7 @@ Kursen examineras med spelprojekt och tentamina.
 **[Spelprojekt 1: Tre-i-rad](tre-i-rad.html)**
 Skapa ett spelbart tre-i-rad i terminalen/kommandotolken mellan två mänskliga spelare.
 
-**Spelprojekt 2: Yatzy**
+**[Spelprojekt 2: Yatzy](Yatzy.pdf)**
 Skapa ett Yatzy med grafik och objektorienterad programmering.
 
 
