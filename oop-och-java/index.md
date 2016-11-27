@@ -111,6 +111,19 @@ Tentamen två utgår.
 
 Lektionstillfällen
 -------------------
+### Onsdag 23 november
+
+Introduktion till slutprojekt i denna kursen som ni skall göra i grupper tillsammans med IPK16-klassen.
+
+[Gruppindelning](gruppindelning_yatzy.pdf)
+
+[Uppgiftsbeskrivning](Yatzy.pdf)
+
+[Förslag på mötesinnehåll](mötesinnehåll.pdf)
+
+### Tisdag 22 november
+
+Jakob höll i en introduktion till Swing som är ett grafikbibliotek i Java. Se Slack för kod från dagen och uppgifter som ni kan öva på.
 
 ### Onsdag 26 okt
 
