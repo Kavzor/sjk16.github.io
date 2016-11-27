@@ -111,6 +111,7 @@ Tentamen två utgår.
 
 Lektionstillfällen
 -------------------
+
 ### Onsdag 23 november
 
 Introduktion till slutprojekt i denna kursen som ni skall göra i grupper tillsammans med IPK16-klassen.
