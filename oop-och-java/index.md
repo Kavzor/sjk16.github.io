@@ -112,6 +112,23 @@ Tentamen två utgår.
 Lektionstillfällen
 -------------------
 
+### Onsdag 7 november
+
+På förmiddagen så kunde ni sitta ned gruppvis och ställa frågor till Martin. På eftermiddagen arbetade ni i grupperna.
+
+### Tisdag 6 december
+
+Dokumentation med JavaDoc samt lite om MVC med Swing
+
+### Onsdag 30 november
+
+På förmiddagen så kunde ni sitta ned gruppvis och ställa frågor till Martin. På eftermiddagen arbetade ni i grupperna.
+
+### Tisdag 29 november
+
+Repetition av Swing samt introduktion till ActionListeners. Se Slack för kod. 
+
+
 ### Onsdag 23 november
 
 Introduktion till slutprojekt i denna kursen som ni skall göra i grupper tillsammans med IPK16-klassen.
