@@ -112,13 +112,23 @@ Tentamen två utgår.
 Lektionstillfällen
 -------------------
 
-### Onsdag 7 november
+### Onsdag 7 december
 
 På förmiddagen så kunde ni sitta ned gruppvis och ställa frågor till Martin. På eftermiddagen arbetade ni i grupperna.
 
 ### Tisdag 6 december
 
-Dokumentation med JavaDoc samt lite om MVC med Swing
+Dokumentation med JavaDoc samt lite om MVC med Swing. Se kanalen code på slack för exempelkoden från dagen.
+
+Länkar om Javadoc:
+
+https://en.wikipedia.org/wiki/Javadoc
+
+http://www.oracle.com/technetwork/articles/java/index-137868.html
+
+http://docs.oracle.com/javase/7/docs/technotes/tools/windows/javadoc.html#examples
+
+https://www.tutorialspoint.com/java/java_documentation.htm
 
 ### Onsdag 30 november
 
