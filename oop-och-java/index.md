@@ -73,6 +73,32 @@ Examination
 
 Kursen examineras med spelprojekt och tentamina. 
 
+Slutbetyget i kursen OOP och Java kommer sättas på följande sätt:
+
+**Tentamen**
+•    Godkänt resultat krävs på tentamen för att få ett slutbetyg
+
+**Tic-Tac-Toe (TTT):**
+•    G=1
+•    VG=1.5
+
+**Yatzy (Yat):**
+•    G=1+0.14 för varje uppfyllt VG-kriterium
+•    VG=2
+
+Slutbetyg =TTT+Yat
+
+De olika betygsgränserna ser ut som följer:
+
+Slutbetyg ≥ 3 ger betyg VG
+2 ≤Slutbetyg< 3 ger betyg G
+Slutbetyg<2 ger betyg IG
+
+Exempelvis:
+En student får G på Tic-Tac-Toe och det ger 1 poäng
+Och får sen G + 3 VG-kriterier på Yatzy vilket ger 1+0.14*3=1.42
+Slutbetyg blir då 1+1.42=2.42 och betyget i kursen blir alltså ett G
+
 ### Spelprojekt
 
 **[Spelprojekt 1: Tre-i-rad](tre-i-rad.html)**
