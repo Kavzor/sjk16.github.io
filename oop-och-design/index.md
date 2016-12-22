@@ -13,7 +13,7 @@ Objektorienterad Programmering och Design
 Info
 ----
 
-* [Kursplanering](kursplanering-OOP-och-design.pdf) (pdf)
+* [Kursplanering](oop_design_22dec.pdf) (pdf)
 
 * Väldigt bra [sammanfattning](http://www.faqs.org/docs/think_java/TIJ303.htm) av egentligen allt vi gjort i kursen hittills.
 Läs kap 1-9. 
