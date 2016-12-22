@@ -138,6 +138,10 @@ Tentamen två utgår.
 Lektionstillfällen
 -------------------
 
+### 13-14 dec
+
+Fortsatt arbete med projekten
+
 ### Onsdag 7 december
 
 På förmiddagen så kunde ni sitta ned gruppvis och ställa frågor till Martin. På eftermiddagen arbetade ni i grupperna.
