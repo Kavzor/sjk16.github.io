@@ -44,6 +44,10 @@ Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgi
 Lektionstillfällen
 -------------
 
+### Tisdag 10 januari
+
+Designmönstret Composite och rekursion. Se slack för bilder från tavlan. [pdf](Rekursion.pdf) med kort sammanfattning av rekursion samt två övningsuppgifter.
+
 ### Onsdag 16 november
 
 Jakob tar förmiddagen med er. Han kommer prata om mönstrena factory och singleton. På eftermiddagen kommer jag prata om iterators och enums. Se Slack för kod vi arbetade med under dagen.
