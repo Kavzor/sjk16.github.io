@@ -48,6 +48,8 @@ Lektionstillfällen
 
 Designmönstret Composite och rekursion. Se slack för bilder från tavlan. [pdf](Rekursion.pdf) med kort sammanfattning av rekursion samt två övningsuppgifter.
 
+[Uppgift](Composite-labb.pdf) med designmönstret Composite. Se följande länk för en beskrivning av mönstret: http://www.dofactory.com/net/composite-design-pattern Koden på den sidan är dock i språket C# men det är väldigt likt Java syntaxmässigt så ni bör förstå huvuddragen av koden ändå.
+
 ### Onsdag 16 november
 
 Jakob tar förmiddagen med er. Han kommer prata om mönstrena factory och singleton. På eftermiddagen kommer jag prata om iterators och enums. Se Slack för kod vi arbetade med under dagen.
