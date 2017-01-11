@@ -44,6 +44,16 @@ Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgi
 Lektionstillfällen
 -------------
 
+### Onsdag 11 januari
+
+Genomgång av enhetstestning med JUnit och lite kort om TDD. Muntlig feedback på yatzy-projekten under eftermiddagen
+
+[Om JUnit](http://fileadmin.cs.lth.se/cs/education/EDAA30/Laborationer/junit.pdf)
+[Övningar](http://www8.cs.umu.se/kurser/5DV133/VT16/labbovningar/ovn2/)
+JUnits egna sida - http://junit.org/junit4/
+Tutorial om JUnit - https://www.tutorialspoint.com/junit/
+
+
 ### Tisdag 10 januari
 
 Designmönstret Composite och rekursion. Se slack för bilder från tavlan. [pdf](Rekursion.pdf) med kort sammanfattning av rekursion samt två övningsuppgifter.
