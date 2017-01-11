@@ -105,6 +105,7 @@ Slutbetyg blir då 1+1.42=2.42 och betyget i kursen blir alltså ett G
 Skapa ett spelbart tre-i-rad i terminalen/kommandotolken mellan två mänskliga spelare.
 
 **[Spelprojekt 2: Yatzy](Yatzy.pdf)**
+[Uppdaterade krav](Uppdaterade krav.pdf)
 Skapa ett Yatzy med grafik och objektorienterad programmering.
 
 
