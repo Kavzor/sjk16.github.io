@@ -46,7 +46,165 @@ Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgi
 Lektionstillfällen
 -------------
 
+### Tisdag 17 januari
 
+Trådar. 
+
+***Uppgifter**
+
+Utifrån koden nedan besvara följande frågor:
+
+a) Vad händer om vi ökar antalet consumers från två till fyra?
+b) Vad händer om i metoden consume tar bort if-satsen?
+c) Vad händer om vi i metoden produce tar bort raden notifyAll(); ?
+
+``` java
+
+import java.util.LinkedList;
+import java.util.Random;
+
+
+public class ThreadClass  {
+
+	//program som 
+	public static final int STRINGS = 32;
+	public static final int PRODUCERS = 4;
+	public static final int CONSUMERS = 2;
+	public static LinkedList<String> array = new LinkedList<>();
+	
+	
+	
+	public static void main(String[] args)
+	{
+		ThreadClass tc = new ThreadClass();
+		for(int i=0; i<PRODUCERS; i++)
+		{
+			int k=i;
+			new Thread( new Runnable(){
+				public void run(){
+					tc.produce(k, STRINGS/PRODUCERS);
+				}
+			}).start();
+		}
+		for(int i=0; i<CONSUMERS; i++)
+		{
+			int k=i;
+			new Thread( new Runnable(){
+				public void run(){
+					tc.consume(k, STRINGS/CONSUMERS);
+				}
+			}).start();
+		}
+		
+	}
+	
+	//lägger till numberOfStrings nya strängar i listan
+	public synchronized void  produce(int id, int numberOfStrings)
+	{
+		
+		
+		
+		for(int i=0; i<numberOfStrings;i++)
+		{
+			randomSleep(100);
+			array.add( "id: " + id + " " + i);
+			
+		}
+		notifyAll();
+	}
+	//konsumerar numberOfStrings antal strängar från listan
+	public synchronized void consume(int id, int numberOfStrings)
+	{
+		
+		
+			for(int i=0; i<numberOfStrings;i++)
+			{
+				if(array.size()==0)
+				{
+					try {
+						wait();
+					} catch (InterruptedException e) {
+						
+						e.printStackTrace();
+					}
+				}
+				randomSleep(100);
+				System.out.println(array.poll());
+			}
+		
+	}
+	//simulerar tiden det tar att producera/konsumera en sträng
+	public static void randomSleep(int n) 
+	{
+		try {
+			Thread.sleep(new Random().nextInt(n));
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	
+}
+```
+
+Uppgiften nedan innehåller en bugg som möjligtvis inte upptäcks vid körning av programmet. 
+a) Vad är det för bugg?
+b) Om ni skulle dela upp körningen på fyra trådar istället för två. Skulle ni märka någon skillnad i tid?
+
+``` java
+public class ThreadClass  {
+
+	static int[] array = new int[10];
+	
+	public static void print()
+	{
+		for(int i=0; i<array.length; i++)
+			System.out.println(array[i]);
+		//System.exit(0);
+	}
+	
+	
+	
+	public static void main(String[] args)
+	{
+		long startTime = System.currentTimeMillis();
+		//delar upp arbetsbördan på flera trådar
+		Runnable r1 = new Runnable(){
+			public void run(){
+				print();
+			}
+		};
+		Runnable r2 = new Runnable(){
+			public void run(){
+				for(int i=0; i<array.length/2; i++)
+					array[i]=i;
+			}
+		};
+		Runnable r3 = new Runnable(){
+			public void run(){
+				for(int i=array.length/2; i<array.length; i++)
+					array[i]=i;
+			}
+		};
+		Thread thread = new Thread(r1);
+		thread.start();
+		
+		Thread thread2 = new Thread(r2);
+		thread2.start();
+		Thread thread3 = new Thread(r3);
+		thread3.start();
+		
+		long endTime   = System.currentTimeMillis();
+		long totalTime = endTime - startTime;
+		System.out.println("Time: " + totalTime);
+		
+	}
+
+	
+	
+}
+```
 
 ### Onsdag 11 januari
 
