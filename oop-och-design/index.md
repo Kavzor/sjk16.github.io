@@ -67,6 +67,7 @@ Designmönstret Composite och rekursion. Se slack för bilder från tavlan. [pdf
 **Lösningar till uppgifter om rekursion**
 
 Siffersumma:
+
 ``` java
 public int digitSum(int n)
 	{
@@ -79,6 +80,7 @@ public int digitSum(int n)
 ```
 
 Antal siffror:
+
 ``` java
 public int numberOfDigits(int n)
 	{
