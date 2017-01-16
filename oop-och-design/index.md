@@ -71,9 +71,9 @@ Siffersumma:
 public int digitSum(int n)
 	{
 		if (n==0)
-			return 0;
+			return 0; //basfall 0 har siffersumman 0
 		else
-			return digitSum(n/10) +n%10;
+			return digitSum(n/10) +n%10; //rekursivt anrop där vi tar bort sista siffran i talet (n/10) och anropar metoden igen.
 		
 	}
 ```
@@ -83,9 +83,9 @@ Antal siffror:
 public int numberOfDigits(int n)
 	{
 		if (n<10)
-			return 1;
+			return 1; //basfall tal mindre än 10 har 1 siffra
 		else
-			return numberOfDigits(n/10) +1;
+			return numberOfDigits(n/10) +1; //rekursivt anrop där vi adderar 1 och sen tar bort sista siffran i talet och anropar metoden igen
 		
 	}
 ```
