@@ -48,7 +48,7 @@ Lektionstillfällen
 
 ### Tisdag 17 januari
 
-Trådar. 
+Trådar
 
 ***Uppgifter**
 
