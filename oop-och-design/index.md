@@ -38,11 +38,15 @@ Design Patterns - Elements of Reusable Object-Oriented Software med ISBN 9780201
 Examination
 -----------
 
-Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgiften kommer under kursen avslutande fyra veckor. Mer info kommer.
+Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgiften kommer under kursen avslutande fyra veckor. 
+
+#### [Spelprojekt 3](spelprojekt3.pdf)
 
 
 Lektionstillfällen
 -------------
+
+
 
 ### Onsdag 11 januari
 
@@ -54,9 +58,37 @@ JUnits egna sida - http://junit.org/junit4/
 Tutorial om JUnit - https://www.tutorialspoint.com/junit/
 
 
+
+
 ### Tisdag 10 januari
 
 Designmönstret Composite och rekursion. Se slack för bilder från tavlan. [pdf](Rekursion.pdf) med kort sammanfattning av rekursion samt två övningsuppgifter.
+
+**Lösningar till uppgifter om rekursion**
+
+Siffersumma:
+``` java
+public int digitSum(int n)
+	{
+		if (n==0)
+			return 0;
+		else
+			return digitSum(n/10) +n%10;
+		
+	}
+```
+
+Antal siffror:
+``` java
+public int numberOfDigits(int n)
+	{
+		if (n<10)
+			return 1;
+		else
+			return numberOfDigits(n/10) +1;
+		
+	}
+```
 
 [Uppgift](Composite-labb.pdf) med designmönstret Composite. Se följande länk för en beskrivning av mönstret: http://www.dofactory.com/net/composite-design-pattern Koden på den sidan är dock i språket C# men det är väldigt likt Java syntaxmässigt så ni bör förstå huvuddragen av koden ändå.
 
