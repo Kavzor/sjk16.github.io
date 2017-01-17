@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: "OOP och Design"
 ---
@@ -40,7 +40,7 @@ Examination
 
 Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgiften kommer under kursen avslutande fyra veckor. 
 
-#### [Spelprojekt 3](spelprojekt3.pdf)
+#### [Spelprojekt 3](Spelprojekt3.pdf)
 
 
 Lektionstillfällen
