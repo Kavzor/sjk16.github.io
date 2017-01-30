@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "OOP och Design"
 ---
@@ -45,6 +45,48 @@ Ingen examination på de tre veckorna under hösten. Utan den examinerande uppgi
 
 Lektionstillfällen
 -------------
+
+### Onsdag 1/2
+
+Muntlig redovisning i mindre grupper där ni skall visa ert spel samt motivera hur ni uppfyller de olika betygskraven. 
+
+Ni kommer vara i grupper om fem-sex projekt som redovisar för varandra.
+
+Följande tider gäller för redovisningarna:
+08.30-10.15
+Harald och Stefan
+Gustav
+Isak och Benjamin
+Robin
+Antonia
+Mahmut
+
+10.30-12.00
+Alex
+Kevin och Max F
+Beatrice och Anneli
+Christoffer och Marcus
+Gino
+
+13.00-14.30
+Vahe
+Kami och Roberto
+Oskar W
+Jonas
+Erinn
+Lamin
+
+14.45-16.00
+Sergej
+Katharine
+Bartek och Max N
+Saikat och Michael
+Takeyoshi
+Marianna
+
+### Onsdag 18 januari-Tisdag 31 januari
+
+Eget arbete med spelprojekt 3
 
 ### Tisdag 17 januari
 
