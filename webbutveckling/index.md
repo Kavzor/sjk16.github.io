@@ -15,7 +15,7 @@ Info
 
 **Antal YH-poäng:** 30
 
-* [Kursplanering (pdf)](kursplanering.pdf)
+* [Kursplanering (pdf)](kursplanering11.pdf)
 
 Lektionstillfällen
 -------------
