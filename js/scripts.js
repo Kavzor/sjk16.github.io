@@ -17,15 +17,15 @@ function markWeek(jQuery) {
 
   //var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
 
- var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
-  var currentWeekTableRow = currentWeek- startWeek2016 -17; //hårdkodat för att kompensera för veckorna under sommaren
+ var startWeek2017 = $("h3:contains(2017) + table tbody td:first").text(); // 2
+ var currentWeekTableRow = currentWeek- startWeek2017; 
+
+   $("h3:contains(2016) + table tbody tr").toggleClass("past-week");
 
 
-  // Style weeks in the past in 2016
-  $("h3:contains(2016) + table tbody tr:lt(" + currentWeekTableRow + ")").toggleClass("past-week");
 
-  // Style current week in 2016
-  $("h3:contains(2016) + table tbody tr:eq(" + currentWeekTableRow + ")").toggleClass("active-week");
+  // Style current week in 2017
+  $("h3:contains(2017) + table tbody tr:eq(" + currentWeekTableRow + ")").toggleClass("active-week");
 
 }
 
