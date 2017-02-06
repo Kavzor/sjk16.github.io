@@ -20,6 +20,7 @@ function markWeek(jQuery) {
  var startWeek2017 = $("h3:contains(2017) + table tbody td:first").text(); // 2
  var currentWeekTableRow = currentWeek- startWeek2017; 
 
+  // Style weeks 2016
    $("h3:contains(2016) + table tbody tr").toggleClass("past-week");
 
 
