@@ -26,6 +26,9 @@ function markWeek(jQuery) {
 
   // Style current week in 2017
   $("h3:contains(2017) + table tbody tr:eq(" + currentWeekTableRow + ")").toggleClass("active-week");
+  
+  //style past weeks in 2017
+   $("h3:contains(2017) + table tbody tr:lt(" + currentWeekTableRow + ")").toggleClass("past-week");
 
 }
 
