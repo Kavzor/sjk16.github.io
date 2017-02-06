@@ -17,6 +17,9 @@ Info
 
 * [Kursplanering (pdf)](kursplanering11.pdf)
 
+
+All information och övningar kommer läggas upp här på men det mesta är länkar till http://rolandsson.nu/jakob/Jensen/SJK16/
+
 Lektionstillfällen
 -------------
 
