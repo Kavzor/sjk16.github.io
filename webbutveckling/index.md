@@ -17,8 +17,9 @@ Info
 
 * [Kursplanering (pdf)](kursplanering11.pdf)
 
+Kursanvsarig för kursen under v6-v9 är Jakob Rolandsson. Han kontaktas via sjk16's Slack vid frågor utanför lektionstid.
 
-All information och övningar kommer läggas upp här på men det mesta är länkar till http://rolandsson.nu/jakob/Jensen/SJK16/
+All information och övningar kommer läggas upp här på men det mesta finns på http://rolandsson.nu/jakob/Jensen/SJK16/
 
 Lektionstillfällen
 -------------
@@ -34,14 +35,14 @@ Lektionstillfällen
 
 Datum  | Dag | Moment
 -------|-----|--------------
-7 feb | tis | 
-8 feb | ons | 
-14 feb | tis |  
-15 feb | ons |
-21 feb | tis |  
-22 feb | ons |  
-28 feb | tis |  
-1 mars | ons |  
+7 feb | tis | Intro HTML5, Github Pages
+8 feb | ons | Intro CSS, CSS selector
+14 feb | tis |  Arbeta med HTML och CSS
+15 feb | ons | Intro JavaScript, DOM
+21 feb | tis |  Arbeta med JS
+22 feb | ons |  AJAX, slutuppgift
+28 feb | tis |  Arbeta med slutuppgift
+1 mars | ons |  Rester
 
 Resterande två veckor av kursen går under hösten 2017.
 
