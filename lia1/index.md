@@ -12,9 +12,9 @@ LIA1
 Info
 ----
 
-* [Infor om examination](lia1.pdf) (pdf)
+* [Info om examination](lia1.pdf) (pdf)
 
-I slutet av denna period, kommer ni att behva samla era funderingar och lrdomar och utveckla dem i en kort skriftligt rapport. Vi kommer sedan att träffas och presentera denna rapport för resten av klassen. 
+I slutet av denna period, kommer ni att behöva samla era funderingar och lärdomar och utveckla dem i en kort skriftligt rapport. Vi kommer sedan att träffas och presentera denna rapport för resten av klassen. 
 
 
 **Nyckeldatum att ha i åtanke:**
