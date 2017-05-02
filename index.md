@@ -40,7 +40,7 @@ Kurser
 2.	[Teknisk projektledning](tpl/)
 3.	[OOP och Design](oop-och-design/)
 4.	[Webbutveckling](webbutveckling/) 
-5.	LiA, del 1
+5.	[LiA, del 1](lia1/)
 6.	Java & DB 
 7.	Java Enterprise Edition 
 8.	LiA, del 2
