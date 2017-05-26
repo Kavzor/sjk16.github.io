@@ -13,14 +13,14 @@ Javaprogrammering och databasteknik
 Info
 ----
 
-* [Kursplanering](kursplanering Javaprogrammering och databasteknik.pdf) (pdf)
+
 
 
 Examination
 ----
-[Miniprojekt databaser och JDBC](miniprojekt.html)
 
-[Slutuppgift](slutuppgift.html)
+
+
 
 **Komplettering av slutuppgift**
 
