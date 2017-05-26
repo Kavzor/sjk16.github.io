@@ -19,17 +19,29 @@ Info
 
 Kursanvsarig för kursen under v6-v9 är Jakob Rolandsson. Han kontaktas via sjk16's Slack vid frågor utanför lektionstid.
 
-All information och övningar kommer läggas upp här på men det mesta finns på http://jakob.rolandsson.nu/Jensen/SJK16/
+All information finns på http://jakob.rolandsson.nu/Jensen/SJK16/
 
 Lektionstillfällen
 -------------
 
-### Tisdag 7 februari
+### Måndag 14 augusti
+
+Mer info kommer
 
 
 
 Översikt
 --------
+
+### Vecka 33--34, 2017
+Datum  | Dag | Moment
+-------|-----|--------------
+14 aug | mån | Intro år 2, GWT 
+17 aug | tor | GWT-tutorial
+21 aug | mån | Arbeta med miniprojekt GWT
+24 aug | tors | Redovisning GWT-uppgift
+
+
 
 ### Vecka 6--9, 2017
 
