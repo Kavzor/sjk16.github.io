@@ -16,6 +16,7 @@ Tisdagar  | 8:15--16:30
 Onsdagar | 8:15--16:30
 
 **Hösterminen 2017**
+Info kommer senare
 
 **Utbildare** 
 
@@ -61,26 +62,22 @@ Kurser
 
 Vecka  | Kurs
 -------|-------
-2  | OOP och design
-3  | OOP och design
-4  | OOP och design
-5  | OOP och design
-6  | Webbutveckling
-7  | Webbutveckling
-8  | Webbutveckling
-9  | Webbutveckling
-10  | Teknisk projektledning
-11  | Teknisk projektledning
-12  | Teknisk projektledning
-13  | LIA
-14  | LIA
-15  | LIA
-16  | LIA
-17  | LIA
-18  | LIA
-19  | LIA
-20  | LIA
-21  | LIA
-22  | LIA
-23  | LIA
-24  | LIA
+33  | Webbutveckling
+34  | Webbutveckling
+35  | Java och DB
+36  | Java och DB
+37  | Java och DB
+38  | Java och DB
+39  | Java och DB
+40  | Java och DB
+41  | Java och DB
+42  | Java och DB
+43  | Java och DB
+44  | Java EE
+45  | Java EE
+46  | Java EE
+47  | Java EE
+48  | Java EE
+49  | Java EE
+50  | Java EE
+51  | Java EE
