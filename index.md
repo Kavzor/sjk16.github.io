@@ -15,9 +15,14 @@ SJKAUG16S
 Tisdagar  | 8:15--16:30
 Onsdagar | 8:15--16:30
 
+**Hösterminen 2017**
+
 **Utbildare** 
 
-Martin Frisk 
+Jakob Rolandsson (HT17-)
+<jakob.rolandsson@zocom.se>
+
+Martin Frisk (HT16-VT17)
 <martin.frisk@zocom.se>
 
 
@@ -50,29 +55,6 @@ Kurser
 
 Översikt
 --------
-
-
-### 2016
-
-Vecka  | Kurs
--------|-------
-35  | OOP och Java
-36  | OOP och Java
-37  | OOP och Java
-38  | OOP och Java
-39  | OOP och Java
-40  | Teknisk projektledning
-41  | Teknisk projektledning
-42  | OOP och Java
-43  | OOP och Java
-44  | OOP och design
-45  | OOP och design
-46  | OOP och design
-47  | OOP och Java
-48  | OOP och Java
-49  | OOP och Java
-50  | OOP och Java
-51  | OOP och Java
 
 
 ### 2017
