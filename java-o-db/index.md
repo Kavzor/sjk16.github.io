@@ -19,24 +19,10 @@ Info
 Examination
 ----
 
+Kurslitteratur
+----
 
-### Förslag på böcker för fördjupning (EJ OBLIGATORISK LITTERATUR)
-
-* Connolly and Begg, Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition. ISBN 9781292061184
-
-Omfattande och bra bok på engelska om man vill ha en grundlig och ganska praktisk introduktion till databasteknik.
-  
-* H. Garcia-Molina, J. D. Ullman and J. Widom, Database Systems: The Complete Book  ISBN  978-1-292-02447-9
-
-En mer teoretisk bok som går igenom vad som händer bakom kulisserna  i en databashanterare. Mycket grundlig och går igenom det mesta som är  värt att veta.
-
-### Fördjupningsområden för den som är extra intresserad av ämnet (kommer ej att gås igenom i kursen)
-
-* [Relational Algebra](https://en.wikipedia.org/wiki/Relational_algebra)
-Teoretisk grund till SQL. [Tutorial](http://www.tutorialspoint.com/dbms/relational_algebra.htm) Kräver viss kunskap om mängdlära från matematiken för att kunna tillgodose sig innehållet helt.
-
-* [Tuple Relational Calculus](https://en.wikipedia.org/wiki/Tuple_relational_calculus#Atoms)
-Kräver även detta en viss matematisk mognad då abstrakt matematisk notation används.
+Databasteknik av Thomas Padron-Mccarthy, Tore Risch (ISBN 9789144044491)
 
 
 
