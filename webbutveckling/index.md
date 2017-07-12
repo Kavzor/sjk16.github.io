@@ -36,10 +36,10 @@ Mer info kommer
 ### Vecka 33--34, 2017
 Datum  | Dag | Moment
 -------|-----|--------------
-14 aug | mån | Intro år 2, GWT 
-17 aug | tor | GWT-tutorial
-21 aug | mån | Arbeta med miniprojekt GWT
-24 aug | tors | Redovisning GWT-uppgift
+14 aug | mån |  Intro år 2, GWT 
+17 aug | tor |  GWT-tutorial
+21 aug | mån |  Arbeta med miniprojekt GWT
+24 aug | tor |  Redovisning GWT-uppgift
 
 
 
@@ -47,10 +47,10 @@ Datum  | Dag | Moment
 
 Datum  | Dag | Moment
 -------|-----|--------------
-7 feb | tis | Intro HTML5, Github Pages
-8 feb | ons | Intro CSS, CSS selector
+7 feb | tis |  Intro HTML5, Github Pages
+8 feb | ons |  Intro CSS, CSS selector
 14 feb | tis |  Arbeta med HTML och CSS
-15 feb | ons | Intro JavaScript, DOM
+15 feb | ons |  Intro JavaScript, DOM
 21 feb | tis |  Arbeta med JS
 22 feb | ons |  AJAX, slutuppgift
 28 feb | tis |  Arbeta med slutuppgift
