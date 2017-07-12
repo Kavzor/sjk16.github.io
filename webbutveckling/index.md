@@ -19,7 +19,7 @@ Info
 
 Kursanvsarig för kursen under v6-v9 är Jakob Rolandsson. Han kontaktas via sjk16's Slack vid frågor utanför lektionstid.
 
-All information finns på http://jakob.rolandsson.nu/Jensen/SJK16/
+All information inför vecka 6-9 finns på http://jakob.rolandsson.nu/Jensen/SJK16/
 
 Lektionstillfällen
 -------------
