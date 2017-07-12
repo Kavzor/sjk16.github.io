@@ -36,10 +36,11 @@ Mer info kommer
 ### Vecka 33--34, 2017
 Datum  | Dag | Moment
 -------|-----|--------------
-14 aug | mån |  Intro år 2, GWT 
-17 aug | tor |  GWT-tutorial
-21 aug | mån |  Arbeta med miniprojekt GWT
-24 aug | tor |  Redovisning GWT-uppgift
+14 aug | mån | Intro år 2, GWT 
+17 aug | tor | GWT-tutorial
+21 aug | mån | Arbeta med miniprojekt GWT
+24 aug | tor | Redovisning GWT-uppgift
+
 
 
 
