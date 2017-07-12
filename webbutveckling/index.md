@@ -31,7 +31,6 @@ Mer info kommer
 
 
 Översikt
---------
 
 ### Vecka 33--34, 2017
 Datum  | Dag | Moment
