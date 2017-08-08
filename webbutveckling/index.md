@@ -37,9 +37,9 @@ Mer info kommer
 
 Datum  | Dag | Moment
 -------|-----|--------------
-14 aug | mån | Intro år 2, GWT 
+15 aug | Tis | Intro år 2, GWT 
 17 aug | tor | GWT-tutorial
-21 aug | mån | Arbeta med miniprojekt GWT
+22 aug | Tis | Arbeta med miniprojekt GWT
 24 aug | tor | Redovisning GWT-uppgift
 
 
