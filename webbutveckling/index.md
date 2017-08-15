@@ -24,21 +24,29 @@ All information inför vecka 6-9 finns på http://jakob.rolandsson.nu/Jensen/SJK
 Lektionstillfällen
 -------------
 
-### Måndag 14 augusti
+### Tisdag 15 augusti
 
-Mer info kommer
+Introduktion till GWT
+* [GWT Intro (pdf)](F1_GWT_INTRO.pdf)
+Uppgift (tills på Torsdag eftermiddag), se [pdf](F1_GWT_INTRO.pdf) (GWT INTRO)
+* http://www.gwtproject.org/doc/latest/tutorial/gettingstarted.html
 
 
+
+
+### Torsdag 17 augusti
+mer info kommer
 
 Översikt
 --------
 
 ### Vecka 33--34, 2017
+
 Datum  | Dag | Moment
 -------|-----|--------------
-14 aug | mån | Intro år 2, GWT 
+15 aug | Tis | Intro år 2, GWT 
 17 aug | tor | GWT-tutorial
-21 aug | mån | Arbeta med miniprojekt GWT
+22 aug | Tis | Arbeta med miniprojekt GWT
 24 aug | tor | Redovisning GWT-uppgift
 
 
