@@ -24,13 +24,17 @@ All information inför vecka 6-9 finns på http://jakob.rolandsson.nu/Jensen/SJK
 Lektionstillfällen
 -------------
 
-### Måndag 14 augusti
+### Tisdag 15 augusti
 
 Introduktion till GWT
 * [GWT Intro (pdf)](F1_GWT_INTRO.pdf)
 Uppgift (tills på Torsdag eftermiddag), se [pdf](F1_GWT_INTRO.pdf) (GWT INTRO)
 * http://www.gwtproject.org/doc/latest/tutorial/gettingstarted.html
 
+
+
+### Torsdag 17 augusti
+mer info kommer
 
 Översikt
 --------
