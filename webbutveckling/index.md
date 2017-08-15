@@ -26,7 +26,8 @@ Lektionstillfällen
 
 ### Måndag 14 augusti
 
-Mer info kommer
+Introduktion till GWT
+[GWT Intro (pdf)](F1_GWT_INTRO.pdf)
 
 
 
