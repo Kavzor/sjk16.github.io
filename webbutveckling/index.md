@@ -28,9 +28,8 @@ Lektionstillfällen
 
 Introduktion till GWT
 * [GWT Intro (pdf)](F1_GWT_INTRO.pdf)
-Uppgift (tills på Torsdag eftermiddag), se [pdf](F1_GWT_INTRO.pdf] (GWT INTRO)
+Uppgift (tills på Torsdag eftermiddag), se [pdf](F1_GWT_INTRO.pdf) (GWT INTRO)
 * http://www.gwtproject.org/doc/latest/tutorial/gettingstarted.html
-* 
 
 
 Översikt
