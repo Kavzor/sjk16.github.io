@@ -52,8 +52,10 @@ Slutuppgift, deadline 24/8 - 17
 
 
 ### Torsdag 24 augusti
+Redovisning: [instruktioner (pdf)](Redovisning%20av%20webbutvecklings%20slutprojekt%20GWT.pdf)
 - Redovisning av Slutprojekt i grupp
-- Enskild redovisning för VG (Se slack för mer information om redovisningen)
+- Enskild redovisning för VG
+
 
 
 Översikt
