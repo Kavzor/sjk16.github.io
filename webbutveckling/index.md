@@ -25,7 +25,6 @@ Lektionstillfällen
 -------------
 
 ### Tisdag 15 augusti
-
 Introduktion till GWT
 * [GWT Intro (pdf)](F1_GWT_INTRO.pdf)
 Uppgift (tills på Torsdag eftermiddag), se [pdf](F1_GWT_INTRO.pdf) (GWT INTRO)
@@ -41,6 +40,12 @@ Fortsätting GWT
 Slutuppgift, deadline 24/8 - 17
 * [GWT_Projekt (pdf)](F2_GWT_Projekt.pdf)
 
+
+
+### Tisdag 22 augusti
+- Fritt arbete med miniprojektet
+- Bli avbockade hos Jakob för kontrolluppgifterna
+- Inga genomgångar
 
 
 Översikt
