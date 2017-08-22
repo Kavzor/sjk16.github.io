@@ -42,10 +42,20 @@ Slutuppgift, deadline 24/8 - 17
 
 
 
+
 ### Tisdag 22 augusti
 - Fritt arbete med miniprojektet
 - Bli avbockade hos Jakob för kontrolluppgifterna
 - Inga genomgångar
+
+
+
+
+### Torsdag 24 augusti
+Redovisning: [instruktioner (pdf)](Redovisning%20av%20webbutvecklings%20slutprojekt%20GWT.pdf)
+- Redovisning av Slutprojekt i grupp
+- Enskild redovisning för VG
+
 
 
 Översikt
