@@ -42,10 +42,18 @@ Slutuppgift, deadline 24/8 - 17
 
 
 
+
 ### Tisdag 22 augusti
 - Fritt arbete med miniprojektet
 - Bli avbockade hos Jakob för kontrolluppgifterna
 - Inga genomgångar
+
+
+
+
+### Torsdag 24 augusti
+- Redovisning av Slutprojekt i grupp
+- Enskild redovisning för VG (Se slack för mer information om redovisningen)
 
 
 Översikt
