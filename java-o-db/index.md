@@ -55,3 +55,5 @@ Lektionstillfällen
 
 Presentation: [Introduktion till databaser](F1_DB_INTRO.pdf)
 
+Övningar: [Övning #1, Nycklar](Övningar_nycklar.pdf), [Övning #2, ER](Övningar_ER.pdf)
+
