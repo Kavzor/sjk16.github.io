@@ -53,5 +53,5 @@ Lektionstillfällen
 * Relationsmodellen
 * ER-Modellering
 
-Presentation: [DB_INTO](F1_DB_INTRO.pdf)
+Presentation: [Introduktion till databaser](F1_DB_INTRO.pdf)
 
