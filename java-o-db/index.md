@@ -48,3 +48,10 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 Lektionstillfällen
 -------------------
 
+### Tisdag 29 September
+* Intro Databaser
+* Relationsmodellen
+* ER-Modellering
+
+Presentation: [Introduktion till databaser](F1_DB_INTRO.pdf)
+
