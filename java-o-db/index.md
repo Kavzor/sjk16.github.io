@@ -71,3 +71,15 @@ Presentation: [Introduktion till databaser](F1_DB_INTRO.pdf)
 Presentation: [Designa en databas](F2_DB_DESIGN.pdf)
 
 Mer om Normalisering: http://porkforge.mardby.se/index.php?title=Normalisering
+
+
+### Tisdag 5 September
+* Designprocess
+* SQL Intro
+* xampp
+* phpmyadmin
+
+Presentation: [SQL Intro](F3_SQL_INTRO.pdf)
+
+Laborationer: [Lab 1](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_1_-_B%C3%B6rja_%C3%B6va_p%C3%A5_MySQL), [Lab 2](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_2_-_%C3%96vningar_p%C3%A5_%C3%A4ndra_f%C3%A4lt_och_v%C3%A4lja_poster)
+
