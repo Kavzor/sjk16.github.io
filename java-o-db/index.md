@@ -12,7 +12,7 @@ Javaprogrammering och databasteknik
 
 Info
 ----
-Kursplanering: [kommer snart]()
+Kursplanering: [Preliminär planering](PlaneringHT17.pdf)
 
 
 
@@ -38,12 +38,18 @@ Tentan kommer ha XX poäng som max och YY som godkänt. Bonuspoängen läggs til
 
 Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillfället. Inga undantag görs. Poängen tillgodoräknas endast för betyget G, inte för VG (möjligen om man missar ett poäng till godkänt och har bra resultat i kontrollskrivningar så kan detta överses).
 
+Notera att ifall du väljs att redovisa och visar uppenbarliga tecken på att du faktiskt inte har arbetat med frågan så strycks du från Recitations-systemet och mister möjligheten att få vg på tentan.
+
+Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob/Jensen/SJK16/presentation/home.php)!
+
 
 #### Recitation 1 
 
-[Uppgift 1 & 2, lös tills torsdag](rec1.pdf)
+[Uppgift 1 & 2, lös tills torsdag 31:a augusti](rec1.pdf)
 
 #### Recitation 2 
+
+[Uppgift 1 & 2, lös tills på torsdag 7:e september](rec2.pdf)
 
 #### Recitation 3 
 
