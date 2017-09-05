@@ -12,7 +12,7 @@ Javaprogrammering och databasteknik
 
 Info
 ----
-Kursplanering: [kommer snart]()
+Kursplanering: [Preliminär planering](PlaneringHT17.pdf)
 
 
 
