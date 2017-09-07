@@ -60,7 +60,7 @@ Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob
 Lektionstillfällen
 -------------------
 
-### Tisdag 29 September
+### Tisdag 29 Augusti
 * Intro Databaser
 * Relationsmodellen
 * ER-Modellering
@@ -70,7 +70,7 @@ Presentation: [Introduktion till databaser](F1_DB_INTRO.pdf)
 Övningar: [Övning #1, Nycklar](Övningar_nycklar.pdf), [Övning #2, ER](Övningar_ER.pdf), se presentations pdf
 
 
-### Torsdag 31 September
+### Torsdag 31 Augusti
 * ER-modellen till relationsmodellen 'Kokboken' i kursliteraturen
 * Normalisering
 
@@ -89,3 +89,16 @@ Presentation: [SQL Intro](F3_SQL_INTRO.pdf)
 
 Laborationer: [Lab 1](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_1_-_B%C3%B6rja_%C3%B6va_p%C3%A5_MySQL), [Lab 2](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_2_-_%C3%96vningar_p%C3%A5_%C3%A4ndra_f%C3%A4lt_och_v%C3%A4lja_poster)
 
+
+### Torsdag 7 September
+* Fort. SQL (JOIN, datatyper)
+
+Presentation: [SQL fortsättning](F4_SQL_FORT.pdf)
+
+Laboration: [Lab3](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_3_-_SELECT_fr%C3%A5n_flera_tabeller_med_JOIN#SELECT_fr.C3.A5n_flera_tabeller)
+
+Extra övningar: 
+[JOIN Operation](http://sqlzoo.net/wiki/The_JOIN_operation)
+[More JOIN operations](http://sqlzoo.net/wiki/More_JOIN_operations)
+[Using null](http://sqlzoo.net/wiki/Using_Null)
+[Self join](http://sqlzoo.net/wiki/Self_join)
