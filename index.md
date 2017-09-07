@@ -16,7 +16,9 @@ Tisdagar  | 8:15--16:30
 Onsdagar | 8:15--16:30
 
 **Hösterminen 2017**
-Info kommer senare
+
+Tisdagar  | 8:30(ak)--16:30
+Torsdagar | 8:30(ak)--16:30
 
 **Utbildare** 
 
