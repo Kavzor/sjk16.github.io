@@ -19,7 +19,7 @@ Kursplanering: [Preliminär planering](PlaneringHT17.pdf)
 Examination
 ----
 
-Redovisning 2/10 - Miniprojekt JDBC + MySQL
+Redovisning 3/10 - Miniprojekt JDBC + MySQL
 Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen
 Redovisning 26/10 - Avslutande projekt
 
