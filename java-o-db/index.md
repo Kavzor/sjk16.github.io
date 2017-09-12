@@ -19,7 +19,7 @@ Kursplanering: [Preliminär planering](PlaneringHT17.pdf)
 Examination
 ----
 
-Redovisning 26/9 - Miniprojekt JDBC + MySQL
+Redovisning 2/10 - Miniprojekt JDBC + MySQL
 Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen
 Redovisning 26/10 - Avslutande projekt
 
@@ -52,6 +52,8 @@ Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob
 [Uppgift 1 & 2, lös tills på torsdag 7:e september](rec2.pdf)
 
 #### Recitation 3 
+
+[Uppgift 1 & 2, lös tills på torsdag 14:e september](Rec3.pdf)
 
 #### Recitation 4 
 
