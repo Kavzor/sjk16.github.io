@@ -102,3 +102,22 @@ Extra övningar:
 [More JOIN operations](http://sqlzoo.net/wiki/More_JOIN_operations)
 [Using null](http://sqlzoo.net/wiki/Using_Null)
 [Self join](http://sqlzoo.net/wiki/Self_join)
+
+### Tisdag 12 September
+* Fort. SQL (AS, CONCAT, LIKE..)
+* Vyer
+* Transaktioner
+* ACID
+
+Presentation:
+- [SQL Queries](F5_ADVANCED_QUERIES.pdf)
+- [Transaktioner](F5_TRANSAKTIONER.pdf)
+
+Laboration:
+- [Lab 4](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_4_-_Mer_SELECT_och_funktioner)
+- [Lab 5](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_5_-_SELECT_med_LIKE_och_jokertecken)
+
+Extra läsning:
+- [Regler för vyer](http://docs.oracle.com/cd/B10501_01/server.920/a96521/views.htm#391)
+
+Läsanvisningar finns i transaktions pdf:n
