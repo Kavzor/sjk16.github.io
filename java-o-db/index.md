@@ -134,7 +134,7 @@ Presentation:
 
 Extra läsning:
 - [BEGIN .. END](https://mariadb.com/kb/en/library/sql-99/begin-end-compound-statement/)
-- [When to NOT use triggers}(https://softwareengineering.stackexchange.com/questions/123074/sql-triggers-and-when-or-when-not-to-use-them)
+- [When to NOT use triggers](https://softwareengineering.stackexchange.com/questions/123074/sql-triggers-and-when-or-when-not-to-use-them)
 - [What is a Stored Procedure?](https://stackoverflow.com/questions/459457/what-is-a-stored-procedure)
 - [How to create a stored procedure?](https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-stored-procedures.html)
 - [Stored procedure Vs. Views](https://stackoverflow.com/questions/3773277/stored-procedures-vs-views)
