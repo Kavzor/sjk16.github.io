@@ -132,6 +132,10 @@ Läsanvisningar finns i transaktions pdf:n
 Presentation:
 - [Integritetsvilkor](F6_SQL_INTEGIRTY.pdf)
 
+Läsanvisningar:
+- Kap 12. sid 237-252
+- Kap 14. sid 263-273
+
 Extra läsning:
 - [BEGIN .. END](https://mariadb.com/kb/en/library/sql-99/begin-end-compound-statement/)
 - [When to NOT use triggers](https://softwareengineering.stackexchange.com/questions/123074/sql-triggers-and-when-or-when-not-to-use-them)
