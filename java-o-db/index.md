@@ -135,6 +135,8 @@ Presentation:
 Läsanvisningar:
 - Kap 12. sid 237-252
 - Kap 14. sid 263-273
+- Kap 15. sid 275-285
+
 
 Extra läsning:
 - [BEGIN .. END](https://mariadb.com/kb/en/library/sql-99/begin-end-compound-statement/)
