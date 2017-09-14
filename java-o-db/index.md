@@ -123,3 +123,17 @@ Extra läsning:
 - [Regler för vyer](http://docs.oracle.com/cd/B10501_01/server.920/a96521/views.htm#391)
 
 Läsanvisningar finns i transaktions pdf:n
+
+### Torsdag 14 September
+* Integritetsvilkor
+* Triggers
+* Stored Procedures
+
+Presentation:
+- [Integritetsvilkor](F6_SQL_INTEGIRTY.pdf)
+
+Extra läsning:
+- [When to NOT use triggers}(https://softwareengineering.stackexchange.com/questions/123074/sql-triggers-and-when-or-when-not-to-use-them)
+- [What is a Stored Procedure?](https://stackoverflow.com/questions/459457/what-is-a-stored-procedure)
+- [How to create a stored procedure?](https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-stored-procedures.html)
+- [Stored procedure Vs. Views](https://stackoverflow.com/questions/3773277/stored-procedures-vs-views)
