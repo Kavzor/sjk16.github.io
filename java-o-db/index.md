@@ -57,6 +57,8 @@ Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob
 
 #### Recitation 4 
 
+[Uppgift 1 & 2, lös tills på torsdag 21:e september](rec4.pdf)
+
 #### Recitation 5 
 
 Lektionstillfällen
