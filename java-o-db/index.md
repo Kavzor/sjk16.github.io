@@ -144,3 +144,25 @@ Extra läsning:
 - [What is a Stored Procedure?](https://stackoverflow.com/questions/459457/what-is-a-stored-procedure)
 - [How to create a stored procedure?](https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-stored-procedures.html)
 - [Stored procedure Vs. Views](https://stackoverflow.com/questions/3773277/stored-procedures-vs-views)
+
+
+### Tisdag 19 September
+* JDBC API
+* JDBC Arkitektur
+* Brygga anslutning till databas från en java applikation
+
+Sammanfattning:
+- [JDBC Intro](F7_JDBC.pdf)
+
+Läsanvisningar:
+- Kap 20. sid 386-388
+
+Laboration:
+- [Lab 5](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC)
+- Fördjupningsuppgiften är något vi kommer att prata mer om på torsdag
+- PreparedStatment nämns i laben, använd Statement istället. Mer om statement(s) på torsdag
+
+Resurser:
+- [MySQL Connector Jar](https://dev.mysql.com/downloads/connector/j/5.1.html)
+- [Mer om ResultSet Types](https://docs.oracle.com/cd/A84870_01/doc/java.816/a81354/resltse7.htm#1020635)
+- [JDBC Tutorial (Gå inte förbi JDBC - Data Types)](https://www.tutorialspoint.com/jdbc/)
