@@ -19,7 +19,7 @@ Kursplanering: [Preliminär planering](PlaneringHT17.pdf)
 Examination
 ----
 
-Redovisning 3/10 - Miniprojekt JDBC + MySQL
+Redovisning 3/10 - [Miniprojekt JDBC + MySQL](Miniprojekt.pdf)
 Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen
 Redovisning 26/10 - Avslutande projekt
 
@@ -56,6 +56,8 @@ Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob
 [Uppgift 1 & 2, lös tills på torsdag 14:e september](Rec3.pdf)
 
 #### Recitation 4 
+
+[Uppgift 1 & 2, lös tills på torsdag 21:e september](rec4.pdf)
 
 #### Recitation 5 
 
@@ -166,3 +168,24 @@ Resurser:
 - [MySQL Connector Jar](https://dev.mysql.com/downloads/connector/j/5.1.html)
 - [Mer om ResultSet Types](https://docs.oracle.com/cd/A84870_01/doc/java.816/a81354/resltse7.htm#1020635)
 - [JDBC Tutorial (Gå inte förbi JDBC - Data Types)](https://www.tutorialspoint.com/jdbc/)
+
+
+
+### Torsdag 21 September
+* Användbara metoder i JDBC för Statement och ResultSet
+* Säkerhet (Injections, XSS, Kryptering)
+* PreparedStatement, CallableStatement, Transactions
+* Hantering av resurser
+* Miniprojekt JDBC + MySQL
+* Repetition av trådar (Deadlock/Racecondition)
+
+Sammanfattning:
+- [Mer om JDBC](F8_JDBC_FORT.pdf)
+
+Resurser:
+- [Mer om Callable Statement och Stored Procedures, se 6.1-6.4](https://www.youtube.com/watch?v=_2sJls8rnBU)
+- [Mer om PreparedStatement](https://stackoverflow.com/questions/3271249/difference-between-statement-and-preparedstatement)
+
+Miniprojekt:
+- [Miniprojekts instruktioner, redovisas 3/10](Miniprojekt.pdf)
+
