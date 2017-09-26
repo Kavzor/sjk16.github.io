@@ -201,5 +201,6 @@ Miniprojekt:
 Sammanfattning:
 - [Java Persistence API](F9_JPA.pdf)
 
-
+Resurser:
+- [Hibernate cfg file](hibernate.cfg.xml)
 
