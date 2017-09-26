@@ -189,3 +189,17 @@ Resurser:
 Miniprojekt:
 - [Miniprojekts instruktioner, redovisas 3/10](Miniprojekt.pdf)
 
+
+### Tisdag 26 September
+* JPA
+* Hibernate ORM
+* KompisSverige
+* DB-class-design
+* Builder-/repository design
+* Arbeta med projekt
+
+Sammanfattning:
+- [Java Persistence API](F9_JPA.pdf)
+
+
+
