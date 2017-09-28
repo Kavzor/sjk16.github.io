@@ -204,3 +204,8 @@ Sammanfattning:
 Resurser:
 - [Hibernate cfg file](hibernate.cfg.xml)
 
+
+### Torsdag 28 September
+* Jobba vidare på miniprojekt
+
+Skriv upp ert namn på tavlan för att få hjälp eller om ni vill diskutera något kring projektet/kursen.
