@@ -209,3 +209,13 @@ Resurser:
 * Jobba vidare på miniprojekt
 
 Skriv upp ert namn på tavlan för att få hjälp eller om ni vill diskutera något kring projektet/kursen.
+
+
+### Tisdag 3 Oktober
+* fm: Redovisning för Jakob
+* em: Redovisning i grupper
+
+* Gick även igenom kortfattat om: exceptions, serializable, generics, list streams
+
+### Torsdag 5 Oktober
+* Datastrukturer
