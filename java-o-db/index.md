@@ -218,4 +218,9 @@ Skriv upp ert namn på tavlan för att få hjälp eller om ni vill diskutera nå
 * Gick även igenom kortfattat om: exceptions, serializable, generics, list streams
 
 ### Torsdag 5 Oktober
-* Datastrukturer
+* Datastrukturer (Array, LinkedList, Tree)
+* ADT (Queue, PriorityQueue, Deque, Stack, Binary Tree)
+
+Uppgift: [Generisk Stack](Stack.pdf)
+
+Sammanfattning: [Abstrakta datastrukturer](F10_ABSTRAKTA_DATASTRUKTURER)
