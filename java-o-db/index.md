@@ -223,4 +223,4 @@ Skriv upp ert namn på tavlan för att få hjälp eller om ni vill diskutera nå
 
 Uppgift: [Generisk Stack](Stack.pdf)
 
-Sammanfattning: [Abstrakta datastrukturer](F10_ABSTRAKTA_DATASTRUKTURER)
+Sammanfattning: [Abstrakta datastrukturer](F10_ABSTRAKTA_DATASTRUKTURER.pdf)
