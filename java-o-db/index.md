@@ -20,7 +20,7 @@ Examination
 ----
 
 Redovisning 3/10 - [Miniprojekt JDBC + MySQL](Miniprojekt.pdf)
-Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen
+Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen, [Tenta instruktioner](tentainstruktioner.txt)
 Redovisning 26/10 - Avslutande projekt
 
 Kurslitteratur
@@ -60,6 +60,8 @@ Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob
 [Uppgift 1 & 2, lös tills på torsdag 21:e september](rec4.pdf)
 
 #### Recitation 5 
+
+[Uppgift 1 & 2, lös tills på torsdag 12:e oktober innan 08:00](rec5.pdf) Svaret ska skickas in på slack till Jakob!
 
 Lektionstillfällen
 -------------------
@@ -233,3 +235,11 @@ Sammanfattning: [Abstrakta datastrukturer](F10_ABSTRAKTA_DATASTRUKTURER.pdf)
 Sammanfattning: [Collections Framework](F11_COLLECTION.pdf)
 
 Intressant läsning: [How does HashMap works internally?](http://javarevisited.blogspot.se/2011/02/how-hashmap-works-in-java.html#axzz4v5DJDJk8)
+
+
+### Torsdag 12 Oktober
+* Tenta
+* Dokument orienterad databas
+* Slutuppgift
+
+[Tenta instrktioner](tentainstruktioner.txt)
