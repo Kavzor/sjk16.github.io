@@ -61,7 +61,7 @@ Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob
 
 #### Recitation 5 
 
-[Uppgift 1 & 2, lös tills på torsdag 12:e oktober innan 08:00](rec5.pdf) Svaret ska skickas in på slack till Jakob!
+[Uppgift 1 & 2, lös tills på torsdag 12:e oktober innan 08:00](Rec5.pdf) Svaret ska skickas in på slack till Jakob!
 
 Lektionstillfällen
 -------------------
