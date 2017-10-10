@@ -224,3 +224,12 @@ Skriv upp ert namn på tavlan för att få hjälp eller om ni vill diskutera nå
 Uppgift: [Generisk Stack](Stack.pdf)
 
 Sammanfattning: [Abstrakta datastrukturer](F10_ABSTRAKTA_DATASTRUKTURER.pdf)
+
+### Tisdag 10 Oktober
+* Collections Framework
+* Feedback
+* Plugg inför tenta
+
+Sammanfattning: [Collections Framework](F11_COLLECTION.pdf)
+
+Intressant läsning: [How does HashMap works internally?](http://javarevisited.blogspot.se/2011/02/how-hashmap-works-in-java.html#axzz4v5DJDJk8)
