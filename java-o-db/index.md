@@ -21,7 +21,7 @@ Examination
 
 Redovisning 3/10 - [Miniprojekt JDBC + MySQL](Miniprojekt.pdf)
 Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen, [Tenta instruktioner](tentainstruktioner.txt)
-Redovisning 26/10 - Avslutande projekt
+Redovisning 26/10 - [Avslutande projekt](Slutprojekt.pdf)
 
 Kurslitteratur
 ----
@@ -240,6 +240,8 @@ Intressant läsning: [How does HashMap works internally?](http://javarevisited.b
 ### Torsdag 12 Oktober
 * Tenta
 * Dokument orienterad databas
-* Slutuppgift
+* [Slutuppgift](Slutuppgift.pdf)
 
 [Tenta instrktioner](tentainstruktioner.txt)
+
+Sammanfattning: [NoSQL](F12_NOSQL.pdf)
