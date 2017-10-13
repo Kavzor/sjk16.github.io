@@ -21,7 +21,7 @@ Examination
 
 Redovisning 3/10 - [Miniprojekt JDBC + MySQL](Miniprojekt.pdf)
 Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen, [Tenta instruktioner](tentainstruktioner.txt)
-Redovisning 26/10 - [Avslutande projekt](Slutprojekt.pdf)
+Redovisning 26/10 - [Avslutande projekt](Slutuppgift.pdf)
 
 Kurslitteratur
 ----
