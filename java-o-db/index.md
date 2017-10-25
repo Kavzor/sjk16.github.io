@@ -23,7 +23,7 @@ Redovisning 3/10 - [Miniprojekt JDBC + MySQL](assignment/miniprojekt.pdf)
 
 Skriftlig tentam 12/10 - Allt som gåtts igenom i kursen, [Tenta instruktioner](assignment/tentainstruktioner.pdf)
 
-Redovisning 26/10 - [Avslutande projekt](Slutuppgift.pdf)
+Redovisning 26/10 - [Avslutande projekt](assignment/lutuppgift.pdf)
 
 Kurslitteratur
 ----
@@ -47,23 +47,23 @@ Glöm inte att anmäla er på [Redovisnings anmälan](http://rolandsson.nu/jakob
 
 #### Recitation 1 
 
-[Uppgift 1 & 2, lös tills torsdag 31:a augusti](rec1.pdf)
+[Uppgift 1 & 2, lös tills torsdag 31:a augusti](recitation/rec1.pdf)
 
 #### Recitation 2 
 
-[Uppgift 1 & 2, lös tills på torsdag 7:e september](rec2.pdf)
+[Uppgift 1 & 2, lös tills på torsdag 7:e september](recitation/rec2.pdf)
 
 #### Recitation 3 
 
-[Uppgift 1 & 2, lös tills på torsdag 14:e september](Rec3.pdf)
+[Uppgift 1 & 2, lös tills på torsdag 14:e september](recitation/rec3.pdf)
 
 #### Recitation 4 
 
-[Uppgift 1 & 2, lös tills på torsdag 21:e september](rec4.pdf)
+[Uppgift 1 & 2, lös tills på torsdag 21:e september](recitation/rec4.pdf)
 
 #### Recitation 5 
 
-[Uppgift 1 & 2, lös tills på torsdag 12:e oktober innan 08:00](Rec5.pdf) Svaret ska skickas in på slack till Jakob!
+[Uppgift 1 & 2, lös tills på torsdag 12:e oktober innan 08:00](recitation/rec5.pdf) Svaret ska skickas in på slack till Jakob!
 
 Lektionstillfällen
 -------------------
@@ -73,16 +73,16 @@ Lektionstillfällen
 * Relationsmodellen
 * ER-Modellering
 
-Presentation: [Introduktion till databaser](F1_DB_INTRO.pdf)
+Presentation: [Introduktion till databaser](lecture/F1_DB_INTRO.pdf)
 
-Övningar: [Övning #1, Nycklar](Övningar_nycklar.pdf), [Övning #2, ER](Övningar_ER.pdf), se presentations pdf
+Övningar: [Övning #1, Nycklar](material/EXERCISE__KEYS.pdf), [Övning #2, ER](material/EXERCISE_ER.pdf), se presentations pdf
 
 
 ### Torsdag 31 Augusti
 * ER-modellen till relationsmodellen 'Kokboken' i kursliteraturen
 * Normalisering
 
-Presentation: [Designa en databas](F2_DB_DESIGN.pdf)
+Presentation: [Designa en databas](lecture/F2_DB_DESIGN.pdf)
 
 Mer om Normalisering: http://porkforge.mardby.se/index.php?title=Normalisering
 
@@ -93,7 +93,7 @@ Mer om Normalisering: http://porkforge.mardby.se/index.php?title=Normalisering
 * xampp
 * phpmyadmin
 
-Presentation: [SQL Intro](F3_SQL_INTRO.pdf)
+Presentation: [SQL Intro](lecture/F3_SQL_INTRO.pdf)
 
 Laborationer: [Lab 1](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_1_-_B%C3%B6rja_%C3%B6va_p%C3%A5_MySQL), [Lab 2](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_2_-_%C3%96vningar_p%C3%A5_%C3%A4ndra_f%C3%A4lt_och_v%C3%A4lja_poster)
 
@@ -101,7 +101,7 @@ Laborationer: [Lab 1](http://porkforge.mardby.se/index.php?title=MySQL_Laboratio
 ### Torsdag 7 September
 * Fort. SQL (JOIN, datatyper)
 
-Presentation: [SQL fortsättning](F4_SQL_FORT.pdf)
+Presentation: [SQL fortsättning](lecture/F4_SQL_FORT.pdf)
 
 Laboration: [Lab3](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_3_-_SELECT_fr%C3%A5n_flera_tabeller_med_JOIN#SELECT_fr.C3.A5n_flera_tabeller)
 
@@ -118,8 +118,8 @@ Extra övningar:
 * ACID
 
 Presentation:
-- [SQL Queries](F5_ADVANCED_QUERIES.pdf)
-- [Transaktioner](F5_TRANSAKTIONER.pdf)
+- [SQL Queries](lecture/F5_ADVANCED_QUERIES.pdf)
+- [Transaktioner](lecture/F5_TRANSAKTIONER.pdf)
 
 Laboration:
 - [Lab 4](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_4_-_Mer_SELECT_och_funktioner)
@@ -136,7 +136,7 @@ Läsanvisningar finns i transaktions pdf:n
 * Stored Procedures
 
 Presentation:
-- [Integritetsvilkor](F6_SQL_INTEGIRTY.pdf)
+- [Integritetsvilkor](lecture/F6_SQL_INTEGIRTY.pdf)
 
 Läsanvisningar:
 - Kap 12. sid 237-252
@@ -158,7 +158,7 @@ Extra läsning:
 * Brygga anslutning till databas från en java applikation
 
 Sammanfattning:
-- [JDBC Intro](F7_JDBC.pdf)
+- [JDBC Intro](lecture/F7_JDBC.pdf)
 
 Läsanvisningar:
 - Kap 20. sid 386-388
@@ -184,14 +184,14 @@ Resurser:
 * Repetition av trådar (Deadlock/Racecondition)
 
 Sammanfattning:
-- [Mer om JDBC](F8_JDBC_FORT.pdf)
+- [Mer om JDBC](lecture/F8_JDBC_FORT.pdf)
 
 Resurser:
 - [Mer om Callable Statement och Stored Procedures, se 6.1-6.4](https://www.youtube.com/watch?v=_2sJls8rnBU)
 - [Mer om PreparedStatement](https://stackoverflow.com/questions/3271249/difference-between-statement-and-preparedstatement)
 
 Miniprojekt:
-- [Miniprojekts instruktioner, redovisas 3/10](Miniprojekt.pdf)
+- [Miniprojekts instruktioner, redovisas 3/10](assignment/miniprojekt.pdf)
 
 
 ### Tisdag 26 September
@@ -203,7 +203,7 @@ Miniprojekt:
 * Arbeta med projekt
 
 Sammanfattning:
-- [Java Persistence API](F9_JPA.pdf)
+- [Java Persistence API](lecture/F9_JPA.pdf)
 
 Resurser:
 - [Hibernate cfg file](hibernate.cfg.xml)
@@ -225,16 +225,16 @@ Skriv upp ert namn på tavlan för att få hjälp eller om ni vill diskutera nå
 * Datastrukturer (Array, LinkedList, Tree)
 * ADT (Queue, PriorityQueue, Deque, Stack, Binary Tree)
 
-Uppgift: [Generisk Stack](Stack.pdf)
+Uppgift: [Generisk Stack](material/EXERCISE_STACK.pdf)
 
-Sammanfattning: [Abstrakta datastrukturer](F10_ABSTRAKTA_DATASTRUKTURER.pdf)
+Sammanfattning: [Abstrakta datastrukturer](lecture/F10_ABSTRAKTA_DATASTRUKTURER.pdf)
 
 ### Tisdag 10 Oktober
 * Collections Framework
 * Feedback
 * Plugg inför tenta
 
-Sammanfattning: [Collections Framework](F11_COLLECTION.pdf)
+Sammanfattning: [Collections Framework](lecture/F11_COLLECTION.pdf)
 
 Intressant läsning: [How does HashMap works internally?](http://javarevisited.blogspot.se/2011/02/how-hashmap-works-in-java.html#axzz4v5DJDJk8)
 
@@ -242,8 +242,8 @@ Intressant läsning: [How does HashMap works internally?](http://javarevisited.b
 ### Torsdag 12 Oktober
 * Tenta
 * Dokument orienterad databas
-* [Slutuppgift](Slutuppgift.pdf)
+* [Slutuppgift](assignment/slutuppgift.pdf)
 
-[Tenta instrktioner](tentainstruktioner.txt)
+[Tenta instrktioner](assignment/tentainstruktioner.pdf)
 
-Sammanfattning: [NoSQL](F12_NOSQL.pdf)
+Sammanfattning: [NoSQL](lecture/F12_NOSQL.pdf)
