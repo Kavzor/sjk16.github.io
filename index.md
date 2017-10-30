@@ -50,7 +50,7 @@ Kurser
 4.	[Webbutveckling](webbutveckling/) 
 5.	[LiA, del 1](lia1/)
 6.	[Java & DB](java-o-db/) 
-7.	Java Enterprise Edition 
+7.	[Java Enterprise Edition](javaee/) 
 8.	LiA, del 2
 9.	Examensarbete
 
