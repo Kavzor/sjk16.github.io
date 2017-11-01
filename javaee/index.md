@@ -21,7 +21,8 @@ Examination
 
 Lektionstillfällen
 -------------------
-
+Under kursens gång kommer vi att arbeta på ett social demo projekt
+Länk: https://github.com/Kavzor/sjk16.github.io/tree/master/javaee/socialDemo
 ### Måndag 30:e Oktober
 - URL
 - Http/1.1 (GET/POST) method
@@ -43,3 +44,4 @@ Notera att ni endast ska ladda ner filerna, ni behöver INTE installera något. 
 - Container
 - Servlet
 - JSP
+
