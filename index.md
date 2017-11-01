@@ -31,8 +31,8 @@ Martin Frisk (HT16-VT17)
 
 **Utbildningsledare**
 
-Andra Tureac
-<andra.tureac@jenseneducation.se>
+Carina Franzen
+<carina.franzen@jenseneducation.se>
 [076-291 60 80](tel:0762916080)
 
 

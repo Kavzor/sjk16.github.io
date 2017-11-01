@@ -37,3 +37,9 @@ Tills nästa tillfälle:
 * Ladda ner [TomEE Plus](http://openejb.apache.org/downloads.html)
 Notera att ni endast ska ladda ner filerna, ni behöver INTE installera något. Filerna är runt 50mb, dvs. det tar alldeles för lång tid att ladda ner under lektionstid.
 * Ladda ner [JavaEE Eclipse IDE Oxygen](https://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/oxygen1a). 
+
+### Onsdag 1:e November
+- Genomgång av socket uppgift
+- Container
+- Servlet
+- JSP
