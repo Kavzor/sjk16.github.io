@@ -41,7 +41,8 @@ Notera att ni endast ska ladda ner filerna, ni behöver INTE installera något. 
 
 ### Onsdag 1:e November
 - Genomgång av socket uppgift
-- Container
+- [Container](https://en.wikipedia.org/wiki/Web_container)
 - Servlet
-- JSP
+- [JSP](https://www.youtube.com/watch?v=78nSYSQO0H0&index=1&list=PLEAQNNR8IlB5qfU7joeyIVRCRqD3nMsmV)
 
+Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
