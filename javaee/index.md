@@ -55,4 +55,4 @@ Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?
 - MVC med JSP/Servlet
 - Hidden Inputs/URL rewriting/Cookies/Session
 
-Övning: kommer
+Övning: [jsp-custom-reverse-word](exercise/Jsp-custom.txt)
