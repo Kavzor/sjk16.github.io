@@ -1,0 +1,12 @@
+﻿Gör en egen JSP tag som tar in ett attribut värde för att sedan printa ut värdet baklänges.
+
+
+Ex. värdet ska placeras som ett attribut, dvs. <myTagLib:reverseWord word=”hello world” /> blir i utskrift på den kompilerade sidan som: “dlrow olleh”. 
+
+
+Fördjupning: Istället för att plocka värdet från ett attribut, gör så att ordet plockas från värdet på elementet, dvs. <myTagLib:reverseWord>Hello World</myTagLib:reverseWord> blir “dlrow olleh”.
+
+
+
+
+Hjälpmedel, http://www.avajava.com/tutorials/lessons/how-do-i-create-a-tag-using-simpletagsupport.html
