@@ -1,0 +1,10 @@
+﻿Denna uppgift fokuserar främst på View och Controller.
+
+
+Bygg en enkel miniräknare med två fält (alternativt en tredje för operatorn) vars uppgift är att antingen addera, subtrahera eller multiplicera. När användaren är klar och trycker på beräkna knappen ska alla fält-värden skickas till en servlet som validerar fälten, dvs. kollar om det är siffror och ett giltigt operator som skickas vidare. Om svaret är positivt så visar du resultatet i en result.jsp, annars så kastas felet till en error.jsp.
+
+
+Felet som kastas ska vara en ServletException och mappas i web.xml. Resultatet ska skrivas ut med hjälp av EL, se 
+
+
+Hjälpmedel, se andra accepterade svaret https://stackoverflow.com/questions/1890438/how-to-get-parameters-from-the-url-with-jsp
