@@ -46,3 +46,13 @@ Notera att ni endast ska ladda ner filerna, ni behöver INTE installera något. 
 - [JSP](https://www.youtube.com/watch?v=78nSYSQO0H0&index=1&list=PLEAQNNR8IlB5qfU7joeyIVRCRqD3nMsmV)
 
 Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
+
+### Onsdag 6:e Måndag
+- JSTL
+- Custom JSP Tags
+- [Vidispine]()
+- Felhantering i JSP filer
+- MVC med JSP/Servlet
+- Hidden Inputs/URL rewriting/Cookies/Session
+
+Övning: kommer
