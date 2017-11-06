@@ -11,8 +11,7 @@ Java Enterprise
 
 Info
 ----
-Kursplanering: På intågande
-Kursplan: 
+Kursplanering: [kursplan](material/KursplaneringJavaEE.pdf)
 
 
 Examination
