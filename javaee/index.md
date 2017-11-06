@@ -50,7 +50,7 @@ Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?
 ### Onsdag 6:e Måndag
 - JSTL
 - Custom JSP Tags
-- [Vidispine]()
+- [Vidispine](material/Presentation LIA - Vidispine.odp)
 - Felhantering i JSP filer
 - MVC med JSP/Servlet
 - Hidden Inputs/URL rewriting/Cookies/Session
