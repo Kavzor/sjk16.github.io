@@ -62,7 +62,10 @@ Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?
 
 ### Onsdag 8:e November
 - Hidden Inputs/URL rewriting/Cookies/Session
-- Filter
-- Listener
+- [Filter](https://kodejava.org/how-do-i-define-a-filter-using-webfilter-annotation/)
+- [Listener](https://www.journaldev.com/1945/servletcontextlistener-servlet-listener-example)
 
 Övning: [Servlet-session-login](exercise/Session.pdf)
+
+Till nästa gång: Titta upp vad Filters är och hur de används, gör sedan övningen [Servlet Filters](exercise/Filter.pdf)
+Om ni blir klara så börja kolla på Servlet Listeners och försök att använd en listener för att skapa en uppkoppling mot databasen då containern startar upp första gången.
