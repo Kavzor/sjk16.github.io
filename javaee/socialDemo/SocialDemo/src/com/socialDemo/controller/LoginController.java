@@ -30,6 +30,7 @@ public class LoginController extends HttpServlet{
 			response.sendRedirect("profile");
 		}
 		else {
+			response.setContentType("text/html");
 			response.getWriter().println("Failed to login \n"
 					+ "<a href=\"index.jsp\">Go back</a>");
 		}
