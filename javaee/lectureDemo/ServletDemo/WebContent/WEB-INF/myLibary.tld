@@ -1,0 +1,19 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.1</jsp-version>
+
+	<tag>
+		<name>clock</name>
+		<tag-class>com.jensen.demo.tag.ClockTag</tag-class>
+		
+		<!-- scriptless, tillåter endast statiskt text -->
+		<body-content>empty</body-content>
+		<attribute>
+			<name>showDate</name>
+			<required>true</required>
+			
+			<!-- Tillåter "runtime"-text, ex. EL (Expression language) -->
+			<rtextvalue>false</rtextvalue>
+		</attribute>
+	</tag>
+</taglib>
