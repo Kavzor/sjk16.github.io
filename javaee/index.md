@@ -22,6 +22,10 @@ Lektionstillfällen
 -------------------
 Under kursens gång kommer vi att arbeta på ett social demo projekt
 Länk: https://github.com/Kavzor/sjk16.github.io/tree/master/javaee/socialDemo
+
+Alla demos från kursen 
+Länk: https://github.com/Kavzor/sjk16.github.io/tree/master/javaee/lectureDemo
+
 ### Måndag 30:e Oktober
 - URL
 - Http/1.1 (GET/POST) method
@@ -46,12 +50,19 @@ Notera att ni endast ska ladda ner filerna, ni behöver INTE installera något. 
 
 Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
 
-### Onsdag 6:e Måndag
+### Måndag 6:e November
 - JSTL
 - Custom JSP Tags
 - [Vidispine](material/Presentation LIA - Vidispine.odp)
 - Felhantering i JSP filer
 - MVC med JSP/Servlet
-- Hidden Inputs/URL rewriting/Cookies/Session
 
 Övning: [jsp-custom-reverse-word](exercise/Jsp-custom.txt), [Mvc-Servlet/Jsp](exercise/Mvc.txt)
+
+
+### Onsdag 8:e November
+- Hidden Inputs/URL rewriting/Cookies/Session
+- Filter
+- Listener
+
+Övning: [Servlet-session-login](exercise/Session.pdf)
