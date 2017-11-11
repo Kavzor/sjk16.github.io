@@ -73,6 +73,7 @@ Om ni blir klara så börja kolla på Servlet Listeners och försök att använd
 ### Måndag 13:e November
 - [Faclets](https://www.javatpoint.com/facelets)
 - ManagedBeans
+- [Scopes](https://stackoverflow.com/questions/7031885/how-to-choose-the-right-bean-scope), (Request/Session/Application/Conversation, View/Flow)
 
 Material:
 [Dependency Injection](http://buraktas.com/java-cdi-dependency-injection-example/)
