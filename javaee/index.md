@@ -69,3 +69,15 @@ Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?
 
 Till nästa gång: Titta upp vad Filters är och hur de används, gör sedan övningen [Servlet Filters](exercise/Filter.pdf)
 Om ni blir klara så börja kolla på Servlet Listeners och försök att använd en listener för att skapa en uppkoppling mot databasen då containern startar upp första gången.
+
+### Måndag 13:e November
+- [Faclets](https://www.javatpoint.com/facelets)
+- ManagedBeans
+- [Scopes](https://stackoverflow.com/questions/7031885/how-to-choose-the-right-bean-scope), (Request/Session/Application/Conversation, View/Flow)
+
+Material:
+[Dependency Injection](http://buraktas.com/java-cdi-dependency-injection-example/)
+[JSP Vs. Servlet Vs. JSF](https://stackoverflow.com/questions/2095397/what-is-the-difference-between-jsf-servlet-and-jsp)
+[Component Vs. Request/action based](https://outofmymemory.wordpress.com/2014/07/14/action-based-or-component-based-mvc/)
+
+Övning: [Faclets](Faclets.pdf)
