@@ -79,3 +79,5 @@ Material:
 [Dependency Injection](http://buraktas.com/java-cdi-dependency-injection-example/)
 [JSP Vs. Servlet Vs. JSF](https://stackoverflow.com/questions/2095397/what-is-the-difference-between-jsf-servlet-and-jsp)
 [Component Vs. Request/action based](https://outofmymemory.wordpress.com/2014/07/14/action-based-or-component-based-mvc/)
+
+Övning: [Faclets](Faclets.pdf)
