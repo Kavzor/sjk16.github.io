@@ -88,3 +88,4 @@ Material:
 
 Uppgift: 
 [Faclets Uppgift](exercise/Faclets2.pdf)
+För er som inte närvarar på lektionen, när ni är klara med luv2code videos:arna, skicka en bild på när ni validerar ett fält (enligt uppgiften), samt en förklaring till vad ManagedBeans är på slack.
