@@ -81,3 +81,10 @@ Material:
 [Component Vs. Request/action based](https://outofmymemory.wordpress.com/2014/07/14/action-based-or-component-based-mvc/)
 
 Övning: [Faclets](exercise/Faclets.pdf)
+
+
+### Onsdag 15:e November
+- Fort. JSF
+
+Uppgift: 
+[Faclets Uppgift](exercise/Faclets2.pdf)
