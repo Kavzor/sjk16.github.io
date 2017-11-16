@@ -90,3 +90,17 @@ Uppgift:
 [Faclets Uppgift](exercise/Faclets2.pdf)
 
 För er som inte närvarar på lektionen, när ni är klara med luv2code videos:arna, skicka en bild på när ni validerar ett fält (enligt uppgiften), samt en förklaring till vad ManagedBeans är på slack.
+
+### Måndag 20:e November
+* Avslutning JSF
+* Web Services (RESTFul services och Soap)
+
+Material
+
+Övningar:
+* [JSF pizza, övning 3](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JavaServer_Faces_och_Managed_Beans)
+* [SOAP in Eclipse with Java](https://www.youtube.com/watch?v=fE1pVSiXNkU)
+Videon är lång men värd att se. Om du hellre ser exempel före all teori så hoppa direkt till 17:00.
+2:50 pratar han om web services i allmänhet och 13:50 pratar han om Java API:et som hjälper oss att bygga web services.
+* [SOAP Vs. REST](https://stackoverflow.com/questions/19884295/soap-vs-rest-differences)
+* [Att konsumera en HTTP response, ex. från ett REST API](http://rest.elkstein.org/2008/02/using-rest-in-java.html)
