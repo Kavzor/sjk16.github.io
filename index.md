@@ -25,6 +25,9 @@ Måndagar  | 8:30(ak)--16:30
 Onsdagar | 8:30(ak)--16:30
 Om inte annat meddelas via Slack
 
+Google kalender finns här: https://calendar.google.com/calendar/render?tab=oc&pli=1#main_7
+Men notera att tider kan ändras om så meddelas via Slack eller under föreläsning.
+
 **Utbildare** 
 
 Jakob Rolandsson (HT17-)
