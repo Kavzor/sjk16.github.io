@@ -50,6 +50,9 @@ Notera att ni endast ska ladda ner filerna, ni behöver INTE installera något. 
 
 Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
 
+Material:
+* [Container förberedelser](Preperation.pdf)
+
 ### Måndag 6:e November
 - JSTL
 - Custom JSP Tags
