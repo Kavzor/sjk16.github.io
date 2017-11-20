@@ -118,4 +118,6 @@ Om ni är mer av en steg för steg människa så rekommenderar jag denna video. 
 Övningar:
 * [JSF pizza, övning 3](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JavaServer_Faces_och_Managed_Beans)
 En bra övning, se övning 3, ifall du är intresserad av att fortsätta med JSF
+
+Uppgift:
 * [RecipeService övningar](exercise/RecipeService.pdf)
