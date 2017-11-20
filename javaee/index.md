@@ -50,6 +50,9 @@ Notera att ni endast ska ladda ner filerna, ni behöver INTE installera något. 
 
 Friviliga övningar: [porkforge övningar](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
 
+Material:
+* [Container förberedelser](Preperation.pdf)
+
 ### Måndag 6:e November
 - JSTL
 - Custom JSP Tags
@@ -90,3 +93,31 @@ Uppgift:
 [Faclets Uppgift](exercise/Faclets2.pdf)
 
 För er som inte närvarar på lektionen, när ni är klara med luv2code videos:arna, skicka en bild på när ni validerar ett fält (enligt uppgiften), samt en förklaring till vad ManagedBeans är på slack.
+
+### Måndag 20:e November
+* Avslutning JSF
+* Web Services (RESTFul services och Soap)
+
+Verktyg
+* [Postman](Postman.pdf)
+Används för ex. att lättare testa REST API:n
+
+Material:
+* [Primefaces](https://www.primefaces.org/showcase/index.xhtml)
+Primefaces är ett UI framework som är lätt att integrera med JSF faclets. Det finns en hel del [välkända företag](https://www.primefaces.org/whouses/) som använder sig av Primefaces. Tryck på panelen till vänster för att få fram kod exempel för olika komponenter.
+* [Kort intro om Web Services](https://www.lynda.com/Software-Development-tutorials/What-web-service/126131/145941-4.html)
+* [SOAP Vs. REST](https://stackoverflow.com/questions/19884295/soap-vs-rest-differences)
+* [Att bygga en REST Service med Jersey](http://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/)
+* [Att konsumera en HTTP response, ex. från ett REST API](http://rest.elkstein.org/2008/02/using-rest-in-java.html)
+* [SOAP in Eclipse with Java (straightforward)](https://www.youtube.com/watch?v=fE1pVSiXNkU)
+Videon är lång men värd att se. Om du hellre ser exempel före all teori så hoppa direkt till 17:00.
+2:50 pratar han om web services i allmänhet och 13:50 pratar han om Java API:et som hjälper oss att bygga web services.
+* [SOAP step-by-step](https://www.youtube.com/watch?v=mKjvKPlb1rA&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
+Om ni är mer av en steg för steg människa så rekommenderar jag denna video. Jag hann inte titta genom alla episoder men själva kodningen börjar på avsnitt 7 dock är det väldigt bra meterial redan innan som kan vara värt att se. Samma person har även lagt upp en hel del annat material som är relevant för kursen (samt för fördjupningar): [java brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+
+Övningar:
+* [JSF pizza, övning 3](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JavaServer_Faces_och_Managed_Beans)
+En bra övning, se övning 3, ifall du är intresserad av att fortsätta med JSF
+
+Uppgift:
+* [RecipeService övningar](exercise/RecipeService.pdf)

@@ -15,10 +15,18 @@ SJKAUG16S
 Tisdagar  | 8:15--16:30
 Onsdagar | 8:15--16:30
 
-**Hösterminen 2017**
+**Hösterminen 2017 (inklusive v.2-3 2018)**
 
 Tisdagar  | 8:30(ak)--16:30
 Torsdagar | 8:30(ak)--16:30
+
+Från v.44-v.3 så gäller
+Måndagar  | 8:30(ak)--16:30
+Onsdagar | 8:30(ak)--16:30
+Om inte annat meddelas via Slack
+
+Google kalender finns här: https://calendar.google.com/calendar/render?tab=oc&pli=1#main_7
+Men notera att tider kan ändras om så meddelas via Slack eller under föreläsning.
 
 **Utbildare** 
 
