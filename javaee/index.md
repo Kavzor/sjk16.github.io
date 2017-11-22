@@ -122,3 +122,10 @@ En bra övning, se övning 3, ifall du är intresserad av att fortsätta med JSF
 
 Uppgift:
 * [RecipeService övningar](exercise/RecipeService.pdf)
+
+
+### Onsdag 22 November
+* Arbeta på materialet från Måndagen
+Starkt rekommenderat att gå genom [SOAP step-by-step](https://www.youtube.com/watch?v=mKjvKPlb1rA&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39) samt att göra RecipeService uppgiften. Notera att jag inte kommer att kontrollera så att alla gör uppgiften denna gång, men jag förväntar mig att ni faktiskt gör den.
+
+Sitter i klassrummet hela dagen om ni har frågor.
