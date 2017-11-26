@@ -151,7 +151,7 @@ Förklaring med väldigt bra tips på 'senaste senaste'
 SOAP intresserade, se detta.
 * [Spring Secure](https://spring.io/guides/gs/securing-web/)
 Spring secure hjälper dig att bygga en säker webapp i den mån att användare tvingas följa en vis väg för att logga in/ut
-* [http://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html]
+* [Thymeleaf Spring integration guide](http://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
 I spring secured så används ett 'template engine' som heter [Thymeleaf](https://en.wikipedia.org/wiki/Thymeleaf), denna PDF innehåller en hel del information om hur Thymeleaf integreras med Spring. Poängen med Thymeleaf är bl.a. att vara en substitution för JSP vanliga flöde.
 
 Välj ett område och jobba genom materialet!
