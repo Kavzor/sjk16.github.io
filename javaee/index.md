@@ -154,6 +154,8 @@ Spring secure hjälper dig att bygga en säker webapp i den mån att användare 
 * [Thymeleaf Spring integration guide](http://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
 I spring secured så används ett 'template engine' som heter [Thymeleaf](https://en.wikipedia.org/wiki/Thymeleaf), denna PDF innehåller en hel del information om hur Thymeleaf integreras med Spring. Poängen med Thymeleaf är bl.a. att vara en substitution för JSP vanliga flöde.
 * [Spring Security explained](https://spring.io/guides/topicals/spring-security-architecture/)
+* [Spring boot](https://projects.spring.io/spring-boot/)
+Spring boot är ett "just run" verktyg som är menat att används av för självstående applikationer, observera att Spring boot kräver absolut inga XML konfigurationer
 
 Välj ett område och jobba genom materialet!
 Projektet för december släpps på Torsdag, det är VIKTIGT att ni är på plats på Onsdag senast 10:30 till tidigast 14:00.
