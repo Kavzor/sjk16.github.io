@@ -155,4 +155,4 @@ Spring secure hjälper dig att bygga en säker webapp i den mån att användare 
 I spring secured så används ett 'template engine' som heter [Thymeleaf](https://en.wikipedia.org/wiki/Thymeleaf), denna PDF innehåller en hel del information om hur Thymeleaf integreras med Spring. Poängen med Thymeleaf är bl.a. att vara en substitution för JSP vanliga flöde.
 
 Välj ett område och jobba genom materialet!
-Projektet för december släpps på Torsdag, det är VIKTIGT att ni är på plats på Torsdag senast 10:30 till tidigast 14:00.
+Projektet för december släpps på Torsdag, det är VIKTIGT att ni är på plats på Onsdag senast 10:30 till tidigast 14:00.
