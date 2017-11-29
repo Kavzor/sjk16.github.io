@@ -16,7 +16,7 @@ Kursplanering: [kursplan](material/KursplaneringJavaEE.pdf)
 
 Examination
 ----
-
+Java EE projekt: [projekt](JavaEEProjekt.pdf)
 
 Lektionstillfällen
 -------------------
@@ -159,3 +159,9 @@ Spring boot är ett "just run" verktyg som är menat att används av för själv
 
 Välj ett område och jobba genom materialet!
 Projektet för december släpps på Torsdag, det är VIKTIGT att ni är på plats på Onsdag senast 10:30 till tidigast 14:00.
+
+
+### Onsdag 29 November
+*Kort genomgång att konsumera REST-ws
+
+Java EE projekt: [projekt](JavaEEProjekt.pdf)
