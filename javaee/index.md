@@ -16,7 +16,7 @@ Kursplanering: [kursplan](material/KursplaneringJavaEE.pdf)
 
 Examination
 ----
-
+Java EE projekt: [projekt](JavaEEProjekt.pdf) - Deadline 18:e December innan redovisning
 
 Lektionstillfällen
 -------------------
@@ -129,3 +129,42 @@ Uppgift:
 Starkt rekommenderat att gå genom [SOAP step-by-step](https://www.youtube.com/watch?v=mKjvKPlb1rA&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39) samt att göra RecipeService uppgiften. Notera att jag inte kommer att kontrollera så att alla gör uppgiften denna gång, men jag förväntar mig att ni faktiskt gör den.
 
 Sitter i klassrummet hela dagen om ni har frågor.
+
+
+### Måndag 27 November
+* Arbeta klart med Web Services
+* Introduktion till Spring MVC
+* Att konfiguera Spring utan xml
+Att vara en spring utvecklare förr var detsamma som att vara en xml utvecklare.
+
+Material:
+* [Lots and lots of small Spring 4 guides](https://spring.io/guides)
+Väldigt många exempel på olika användningsområden inom Spring
+* [Aync with WebSockets](https://spring.io/guides/gs/messaging-stomp-websocket/)
+Ett sätt att jobba asynkroniskt med Spring
+* [Allmäna exempel om Spring](https://www.journaldev.com/2888/spring-tutorial-spring-core-tutorial)
+* [Spring 5 on the rise](https://spring.io/blog/2016/09/22/new-in-spring-5-functional-web-framework)
+Senaste senaste
+* [Reactive Endpoints with Spring](https://www.youtube.com/watch?v=JjrAmhlTjug)
+Förklaring med väldigt bra tips på 'senaste senaste'
+* [Spring-WS (SOAP i Spring)](https://www.youtube.com/watch?v=bfTmt_pUazU)
+SOAP intresserade, se detta.
+* [Spring Secure](https://spring.io/guides/gs/securing-web/)
+Spring secure hjälper dig att bygga en säker webapp i den mån att användare tvingas följa en vis väg för att logga in/ut
+* [Thymeleaf Spring integration guide](http://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
+I spring secured så används ett 'template engine' som heter [Thymeleaf](https://en.wikipedia.org/wiki/Thymeleaf), denna PDF innehåller en hel del information om hur Thymeleaf integreras med Spring. Poängen med Thymeleaf är bl.a. att vara en substitution för JSP vanliga flöde.
+* [Spring Security explained](https://spring.io/guides/topicals/spring-security-architecture/)
+* [Spring boot](https://projects.spring.io/spring-boot/)
+Spring boot är ett "just run" verktyg som är menat att används av för självstående applikationer, observera att Spring boot kräver absolut inga XML konfigurationer
+
+Välj ett område och jobba genom materialet!
+Projektet för december släpps på Torsdag, det är VIKTIGT att ni är på plats på Onsdag senast 10:30 till tidigast 14:00.
+
+
+### Onsdag 29 November
+*Kort genomgång att konsumera REST-ws
+
+Java EE projekt: [projekt](JavaEEProjekt.pdf)
+
+Material:
+* Att skicka [Http från java](https://stackoverflow.com/questions/4205980/java-sending-http-parameters-via-post-method-easily) 
