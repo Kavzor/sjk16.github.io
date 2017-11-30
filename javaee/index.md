@@ -16,7 +16,7 @@ Kursplanering: [kursplan](material/KursplaneringJavaEE.pdf)
 
 Examination
 ----
-Java EE projekt: [projekt](JavaEEProjekt.pdf)
+Java EE projekt: [projekt](JavaEEProjekt.pdf) - Deadline 18:e December innan redovisning
 
 Lektionstillfällen
 -------------------
@@ -165,3 +165,6 @@ Projektet för december släpps på Torsdag, det är VIKTIGT att ni är på plat
 *Kort genomgång att konsumera REST-ws
 
 Java EE projekt: [projekt](JavaEEProjekt.pdf)
+
+Material:
+* Att skicka [Http från java](https://stackoverflow.com/questions/4205980/java-sending-http-parameters-via-post-method-easily) 
