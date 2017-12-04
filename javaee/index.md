@@ -168,3 +168,10 @@ Java EE projekt: [projekt](JavaEEProjekt.pdf)
 
 Material:
 * Att skicka [Http från java](https://stackoverflow.com/questions/4205980/java-sending-http-parameters-via-post-method-easily) 
+
+
+### Måndag 4 December
+*Fortsätt arbeta med projekt
+
+Starkt tips!
+För er som funderar på att arbeta med Angular 2+, det finns ett annat ramverk som är relativt likt men mycket "enklare", dock nästintill lika kraftfullt som Angular. Detta ramverk kallas [Vue.js](https://vuejs.org/) och kan ses som den morderna jQuery (kräver inte så mycket förkunskaper). 
