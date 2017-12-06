@@ -45,6 +45,7 @@ public class MessageService {
 	@Consumes(MediaType.APPLICATION_JSON)
 	@Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
 	public Message update(Message message) {
+		System.out.println(message);
 		return messageRepository.update(message);
 	}
 	
