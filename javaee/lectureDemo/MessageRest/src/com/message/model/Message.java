@@ -7,6 +7,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Message {
 
+	//object.topic
 	private String topic;
 	private String messageText;
 	private int messageId;
@@ -35,6 +36,13 @@ public class Message {
 	public void setMessageId(int messageId) {
 		this.messageId = messageId;
 	}
+
+	@Override
+	public String toString() {
+		return "Message [topic=" + topic + ", messageText=" + messageText + ", messageId=" + messageId + "]";
+	}
+	
+	
 	
 	
 }
