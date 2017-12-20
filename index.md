@@ -59,8 +59,8 @@ Kurser
 5.	[LiA, del 1](lia1/)
 6.	[Java & DB](java-o-db/) 
 7.	[Java Enterprise Edition](javaee/) 
-8.	LiA, del 2
-9.	Examensarbete
+8.	[LiA, del 2](lia2/)
+9.	[Examensarbete](exam/)
 
 
 
