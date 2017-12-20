@@ -171,7 +171,20 @@ Material:
 
 
 ### Måndag 4 December
-*Fortsätt arbeta med projekt
+*Fortsätt arbeta med projekt, deadline 18:e
 
 Starkt tips!
 För er som funderar på att arbeta med Angular 2+, det finns ett annat ramverk som är relativt likt men mycket "enklare", dock nästintill lika kraftfullt som Angular. Detta ramverk kallas [Vue.js](https://vuejs.org/) och kan ses som den morderna jQuery (kräver inte så mycket förkunskaper). 
+
+
+### Måndag 18 December
+* Redovisning hela dagen
+
+### Onsdag 20 December
+* Kompletteringsdag
+- Lämna in kompletteringar
+- Få djupare feedback vid intresse
+- Vid intresse, repetition av css
+
+
+Mer info kommer i början januari
