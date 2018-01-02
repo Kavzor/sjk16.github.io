@@ -20,7 +20,7 @@ Onsdagar | 8:15--16:30
 Tisdagar  | 8:30(ak)--16:30
 Torsdagar | 8:30(ak)--16:30
 
-Från v.44-v.3 så gäller
+Från v.44-v.52 så gäller
 Måndagar  | 8:30(ak)--16:30
 Onsdagar | 8:30(ak)--16:30
 Om inte annat meddelas via Slack
