@@ -16,7 +16,8 @@ Kursplanering: [kursplan](material/KursplaneringJavaEE.pdf)
 
 Examination
 ----
-Java EE projekt: [projekt](JavaEEProjekt.pdf) - Deadline 18:e December innan redovisning
+Java EE projekt: [Projekt 1](JavaEEProjekt.pdf) - Deadline 18:e December innan redovisning
+Ramverk projekt: [Projekt 2](Ramverk.pdf) - Deadline senast 18:e Januari
 
 Lektionstillfällen
 -------------------
@@ -186,5 +187,5 @@ För er som funderar på att arbeta med Angular 2+, det finns ett annat ramverk 
 - Få djupare feedback vid intresse
 - Vid intresse, repetition av css
 
-
-Mer info kommer i början januari
+### Tisdag 9 Januari
+- Introducera sista projektet: [ramverk](Ramverk.pdf)
